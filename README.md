@@ -15,9 +15,9 @@ Our starting point, snp.txt, actually has two parts:
 When this project is completed, there will be a file snp_adj.txt in the
 repository which will be a modified version of snp.txt; furthermore, the
 modifications will be accomplished by one or more Python(version 2.7) programs and possibly some ancillary text files.  The first (and perhaps only) part of
-the project will deal with the Appendix 4 part of snp.txt.  The next section
-provides some context which is required to frame the problem to be solved by
-the project
+the project will deal with capitalization in  Appendix 4 part of snp.txt.  
 
-## Context of the Problem
+[Issue#1](https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/1) describes the context of this capitalization problem.
 
+
+[Issue#2](https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/1) describes the motivating example of this capitalization problem.
