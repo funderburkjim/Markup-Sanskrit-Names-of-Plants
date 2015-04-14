@@ -14,7 +14,10 @@ Our starting point, snp.txt, actually has two parts:
 
 When this project is completed, there will be a file snp_adj.txt in the
 repository which will be a modified version of snp.txt; furthermore, the
-modifications will be accomplished by one or more Python(version 2.7) programs and possibly some ancillary text files.  The first (and perhaps only) part of
+modifications will be accomplished by one or more Python(version 2.7) programs and possibly some ancillary text files, also in the repository. The sequence of steps required to construct snp_adj.txt from snp.txt will be specified by a 
+shell script (redo_adj.sh),  Thus, the construction of the adjusted digitization (snp_adj.txt) will be accomplished in a repeatable (programmatic) way - by rerunning the shell script.
+
+  The first (and perhaps only) part of
 the project will deal with capitalization in  Appendix 4 part of snp.txt.  
 
 [Issue#1](https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/1) describes the context of this capitalization problem.
