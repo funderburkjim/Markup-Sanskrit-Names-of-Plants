@@ -1,4 +1,4 @@
-1. The data files (wil.txt, yat.txt, wilhw2.txt, yathw2.txt) of this repository are obtained from the
+1. The data files (snp.txt, etc) of this repository are obtained from the
     [Cologne Sanskrit-Lexicon](http://www.sanskrit-lexicon.uni-koeln.de/) and are protected under the
     Creative Commons Attribution Non-Commercial Share Alike license available in full 
     [here](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode).
