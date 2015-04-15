@@ -24,3 +24,7 @@ the project will deal with capitalization in  Appendix 4 part of snp.txt.
 
 
 [Issue#2](https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/1) describes the motivating example of this capitalization problem.
+
+[Issue#3](https://github.com/funderburkjim/Markup-Sanskrit-Names-of-Plants/issues/1) provides some suggestions that might (or might not) be helpful in solving the capitalization problem.
+
+When the capitalization problem based on the first part (Appendix 4) is solved, a next step would be to identify and mark the scientific plant names appearing in the second part of the digitization.
