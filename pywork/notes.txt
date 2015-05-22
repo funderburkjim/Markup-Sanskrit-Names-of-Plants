@@ -1,0 +1,17 @@
+
+pywork/notes.txt
+Begun May 23, 2015
+
+
+1a. (May 23, 2015) Create snp01.txt  (using cmd.exe terminal program in Windows)
+- In a command terminal, change to the pywork directory (the directory
+  containing this notes.txt file)
+- Run the following command-line program:
+  python snp01.py ..\snp.txt data\snp01.txt
+
+1b. (May 23, 2015) Create snp01.txt (Using GitBash terminal program in Windows)
+- In a command terminal, change to the pywork directory
+- Run the following command-line program:
+
+python snp01.py ../snp.txt data/snp01.txt
+
