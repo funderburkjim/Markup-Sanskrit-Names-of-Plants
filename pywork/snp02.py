@@ -4,7 +4,7 @@ import unicodedata
 import sys
 
 filein=sys.argv[1] 
-fileout=sys.argv[2] 
+fileout=sys.argv[2]
 f=codecs.open(filein,encoding="utf-8") #open input file(snp.txt)
 w=codecs.open(fileout,encoding="utf-8",mode='w') #create new file(snp01.txt) for output
 lineno=0 
@@ -21,9 +21,10 @@ for l in f:
                 w.write(l[x])
             else:
                 if issequence==0: # if sequence is not 
-                    if ord(l[x])>=65 and ord(l[x])<=90:# if capital letter 
-                        w.write("<c>") # start a new sequence
-                        issequence=1 #issequence=1 
+                    if ord(l[x])>=65 and ord(l[x])<=90:# if capital letter
+                        if (ord(l[x+1])>=65 and ord(l[x+1])<=90)or(l[x+1]==" "):# if it is not a normal word
+                            w.write("<c>") # start a new sequence
+                            issequence=1 #issequence=1 
                         w.write(l[x]) 
                     else:# if not a capital letter write as it is
                         w.write(l[x]) 
