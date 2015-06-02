@@ -17,3 +17,6 @@ python snp01.py ../snp.txt data/snp01.txt
 
 2. (May 31, 2015) Create snp02.txt
 python snp02.py ../snp.txt data/snp02.txt
+
+3. (Jun3 2, 2015) create snp03.txt
+python snp03.py data/snp02.txt data/snp03.txt
