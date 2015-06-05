@@ -1,3 +1,0 @@
-create snp03.txt
--in command line terminal
-python snp03.py data/snp02.txt data/snp03.txt
