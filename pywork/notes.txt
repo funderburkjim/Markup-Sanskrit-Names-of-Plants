@@ -23,3 +23,6 @@ python snp03.py data/snp02.txt data/snp03.txt
 
 4. (Jun 6,  2015) create snp04.txt
 python snp04.py data/snp03.txt data/snp04.txt
+
+5. (Jun 10, 2015) create snp05.txt and remove_list.txt
+python snp05.py data/snp04.txt data/remove_list.txt data/snp05.txt
