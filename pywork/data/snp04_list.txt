@@ -1,0 +1,4992 @@
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>MW</c>
+<c>PW</c>
+<c>CARPOPOGON PRURIENS</c>
+<c>COMMIPHORA ROXBURGHII</c>
+<c>ARN.</c>
+<c>ENGL.</c>
+<c>C.
+AGALLOCHA</c>
+<c>WIGHT ET ARN.</c>
+<c>ENGL.</c>
+<c>BALSAMODENDRUM
+ROXBURGHII ARN.</c>
+<c>AMYRIS COMMIPHORA ROXB.</c>
+<c>KB</c>
+<c>COMMIPHORA AGALLOCHA ENGL.</c>
+<c>BALSA-
+MODENDRUM ROXBURGHIII ARN.</c>
+<c>AMYRIS COMMIPHORA
+ROXB.</c>
+<c>KB</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>C. ROXBURGHII ENGL.</c>
+<c>BAL-
+SAMODENDRUM ROXBURGHII STOCKS</c>
+<c>B. WIGHTII ARN.</c>
+<c>COMMIPHORA ROXBURGHII ALSTON</c>
+<c>C. AGALLOCHA ENGL.</c>
+<c>BALSAMODENDRUM AGALLOCHA WIGHT ET ARN.</c>
+<c>B. COMMI</c>
+<c>PHORA ROYLE</c>
+<c>B. ROXBURGHII ARN.</c>
+<c>AMYRIS COMMI-
+PHORA ROXB.</c>
+<c>C. ROXBURGHII ENGL.</c>
+<c>C.
+AGALLOCHA ENGL.</c>
+<c>C. MUKUL ENGL.</c>
+<c>B. MUKUL HOOK. EX STOCKS</c>
+<c>C. MUKUL ENGL.</c>
+<c>C. ROXBURGHII ENGL.</c>
+<c>BALSAMO-
+DENDRON MUKUL HOOK. EX STOCKS</c>
+<c>B. ROXBURGHII STOCKS</c>
+<c>B. WIGHTII ARN.</c>
+<c>B. ROXBURGHII ARN.</c>
+<c>AMY-
+RIS COMMIPHORA ROXB.</c>
+<c>AMYRIS AGALLOCHA ROXB.</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>BALSAMODENDRON MUKUL HOOK. EX STOCKS</c>
+<c>B. ROX-
+BURGHII STOCKS</c>
+<c>NON ARNOTT</c>
+<c>AQUILARIA AGALLOCHA ROXB.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>CP</c>
+<c>AMYRIS AGALLOCHA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>HK</c>
+<c>AQUILARIA AGALLOCHA ROXB.</c>
+<c>SAPIUM SEBIFERUM ROXB.</c>
+<c>KB</c>
+<c>EXCOECARIA AGALLOCHA LINN.</c>
+<c>KB</c>
+<c>DYSOXYLUM MALABARICUM BEDD. EX C. DC.</c>
+<c>AQUILARIA AGALLOCHA ROXB.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>ALOE</c>
+<c>XYLUM AGALLOCHUM LOUR.</c>
+<c>ALOE</c>
+<c>XYLUM VERUM
+LOUR.</c>
+<c>AMYRIS AGALLOCHA ROXB.</c>
+<c>HK</c>
+<c>AQUILARIA MALACCENSIS LAM.</c>
+<c>DWH</c>
+<c>AQUILARIA OVATA CAV.</c>
+<c>A. OVATA</c>
+<c>PW</c>
+<c>A. OVATA LINN.</c>
+<c>DALBERGIA SISSOO ROXB.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PW</c>
+<c>D. LATIFOLIA ROXB.</c>
+<c>PREMNA INTEGRIFOLIA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>P. SPINOSA ROXB.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>P. SERRATIFOLIA LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>P. LONGIFOLIA</c>
+<c>PW</c>
+<c>P. LONGIFOLIA ROXB.</c>
+<c>P. BENGALENSIS C. B. CLARKE</c>
+<c>P. LONGIFOLIA WALL.</c>
+<c>P. LATIFOLIA ROXB.</c>
+<c>PA</c>
+<c>P. CORIACEA C. B. CLARKE</c>
+<c>PA</c>
+<c>CLERODENDRUM PHLOMOIDES LINN. F.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. PHLOMIDIS LINN. F.</c>
+<c>IRM</c>
+<c>C. INERME GAERTN.</c>
+<c>DWH</c>
+<c>C. NEREIFOLIUM WALL.</c>
+<c>C. INERME R. BR.</c>
+<c>ALANGIUM DECAPETALUM LAM.</c>
+<c>AFM</c>
+<c>A. HEXAPETALUM LAM.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>A. LAMARCKII THW.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>A. LAMARCKII LINN.</c>
+<c>HK</c>
+<c>A. TOMENTOSUM LAM.</c>
+<c>A. SALVIIFOLIUM WANGERIN</c>
+<c>AFM</c>
+<c>A. SALVII-
+FOLIUM</c>
+<c>IRM</c>
+<c>GREWIA SALVI-
+FOLIA LINN. F.</c>
+<c>APIUM GRAVEOLENS LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>TRACHYSPERMUM ROXBURGHIANUM</c>
+<c>DC.</c>
+<c>CARUM ROXBURGHIANUM BENTH. ET HOOK. F.</c>
+<c>TRACHYSPERMUM INVOLUCRATUM H. WOLFF</c>
+<c>T. ROXBUR-
+GHIANUM H. WOLFF</c>
+<c>CARUM ROXBURGHIANUM BENTH. ET</c>
+<c>HOOK. F.</c>
+<c>HK</c>
+<c>V</c>
+<c>CP</c>
+<c>APIUM INVOLUCRATUM
+ROXB. EX FLEM.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>PTYCHOTIS ROXBURGHIANA DC.</c>
+<c>PIMPINELLA INVOLUCRATA WIGHT ET ARN.</c>
+<c>HS</c>
+<c>TRACHYSPERMUM AMMI</c>
+<c>LINN.</c>
+<c>SPRAGUE</c>
+<c>CARUM
+COPTICUM BENTH. ET HOOK. F.</c>
+<c>TRACHYSPERMUM AMMI SPRAGUE</c>
+<c>SISON AMMI LINN.</c>
+<c>TRACHYSPERMUM COPTICUM</c>
+<c>LINN.</c>
+<c>LINK</c>
+<c>CARUM COPTICUM BENTH. ET HOOK. F.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>C.
+AJOWAN BENTH. ET HOOK. F.</c>
+<c>PTYCHOTIS
+AJOWAN DC.</c>
+<c>DWH</c>
+<c>P.
+COPTICA DC.</c>
+<c>AMMI COPTICUM LINN.</c>
+<c>LIGUSTICUM AJAWAIN ROXB. EX
+FLEM.</c>
+<c>L. AJOWAN ROYLE</c>
+<c>MW</c>
+<c>PW</c>
+<c>CARUM CARVI LINN.</c>
+<c>PW</c>
+<c>C. PETROSELINUM BENTH. ET HOOK. F.</c>
+<c>APIUM PETROSELINUM
+LINN.</c>
+<c>CUMINUM CYMINUM LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>CP</c>
+<c>NIGELLA SATIVA LINN.</c>
+<c>KB</c>
+<c>N. INDICA ROXB. EX FLEM.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CARUM CARVI LINN.</c>
+<c>KB</c>
+<c>FICUS HISPIDA LINN. F.</c>
+<c>KB</c>
+<c>F. OPPO-
+SITIFOLIA WILLD.</c>
+<c>MW</c>
+<c>PW</c>
+<c>LINUM USITATISSIMUM LINN.</c>
+<c>ACHYRANTHES ASPERA LINN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>A. OBTUSIFOLIA
+LAM.</c>
+<c>AFM</c>
+<c>A. HEPTAPETALUM ROXB.</c>
+<c>HK</c>
+<c>A.
+INDICA MILL.</c>
+<c>A. INDICA ROXB.</c>
+<c>A. BIDENTATA BLUME</c>
+<c>KB</c>
+<c>A. ASPERA WALL.</c>
+<c>A. SPICATA BURM.</c>
+<c>CYATHULA GENICULATA LOUR.</c>
+<c>C. PROSTRATA BLUME</c>
+<c>PA</c>
+<c>DESMOCHAETA PROSTRATA DC.</c>
+<c>PUPALIA PROSTRATA R. BR.</c>
+<c>RUMEX VESICARIUS LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>R. CRISPUS LINN.</c>
+<c>RHEUM WEBBIANUM ROYLE</c>
+<c>RH.
+AUSTRALE D. DON</c>
+<c>RH. EMODI WALL.</c>
+<c>RH. ACUMINATUM HOOK. F. ET THOMS.</c>
+<c>RH. MOORCROFTIANUM ROYLE</c>
+<c>RH. OFFICINALE BAILL.</c>
+<c>RH. SPICIFORME ROYLE</c>
+<c>GARCINIA PEDUNCULATA ROXB.</c>
+<c>CALAMUS VIMINALIS WILLD.</c>
+<c>C. FASCICULATUS ROXB.</c>
+<c>TAMARINDUS INDICA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>OXALIS CORNICULATA LINN.</c>
+<c>MW</c>
+<c>O. MONADELPHA ROXB. EX WIGHT ET ARN.</c>
+<c>O. PUSILLA SALISB.</c>
+<c>PW</c>
+<c>RUMEX DENTATUS LINN.</c>
+<c>V</c>
+<c>MANGIFERA INDICA LINN.</c>
+<c>SPONDIAS MANGIFERA WILLD.</c>
+<c>PHYLLANTHUS NIRURI LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>KB</c>
+<c>BUTEA SUPERBA ROXB.</c>
+<c>TAMARINDUS INDICA LINN.</c>
+<c>HK</c>
+<c>OXALIS CORNICULATA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>OCIMUM GRATISSIMUM LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>O. BASILICUM LINN.</c>
+<c>O. SANCTUM LINN.</c>
+<c>KB</c>
+<c>O. VILLOSUM ROXB.</c>
+<c>O. CANUM SIMS</c>
+<c>KB</c>
+<c>O. AMERICANUM LINN.</c>
+<c>ORTHOSIPHON GRANDIFLORUS BOLDINGH EX HEYNE</c>
+<c>FICUS RELIGIOSA LINN.</c>
+<c>UROSTIGMA RELIGIOSUM GASP.</c>
+<c>CAJANUS CAJAN</c>
+<c>LINN.</c>
+<c>MILLSP.</c>
+<c>IRM</c>
+<c>C. INDICUS SPRENG.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>C.
+BICOLOR DC.</c>
+<c>C. FLAVUS DC.</c>
+<c>CAJAN CAJAN MILLSP.</c>
+<c>CYTISUS CAJAN LINN.</c>
+<c>HK</c>
+<c>V</c>
+<c>DC.</c>
+<c>DC.</c>
+<c>CP</c>
+<c>PHYLLANTHUS EMBLICA LINN.</c>
+<c>EMBLICA OFFICINALIS GAERTN.</c>
+<c>JUSTICIA GENDARUSSA BURM. F.</c>
+<c>GENDARUSSA VULGARIS NEES</c>
+<c>MW</c>
+<c>ADHATODA VASICA NEES</c>
+<c>KB</c>
+<c>JUSTICIA
+ADHATODA LINN.</c>
+<c>GENDARUSSA ADHATODA STEUD.</c>
+<c>PW</c>
+<c>MANGIFERA INDICA LINN.</c>
+<c>M. DOMESTICA GAERTN.</c>
+<c>M. MONTANA HEYNE EX WIGHT ET ARN.</c>
+<c>SPONDIAS MANGIFERA WILLD.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>S. PINNATA KURZ</c>
+<c>KB</c>
+<c>S. MANGIFERA
+PERS.</c>
+<c>S. EKMINUT</c>
+<c>MANGIFERA PIN-
+NATA LINN. F.</c>
+<c>KB</c>
+<c>MANGIFERA INDICA LINN.</c>
+<c>BUCHANANIA LATIFOLIA ROXB.</c>
+<c>SPONDIAS ELLIPTICA ROTTB.
+EX HOOK. F.</c>
+<c>ZINGIBER OFFICINALE ROSC.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>Z. MISSIONIS WALL.</c>
+<c>PA</c>
+<c>CURCUMA LONGIFOLIA WALL.
+CAT.</c>
+<c>PA</c>
+<c>AMOMUM ANGUSTIFOLIUM SALISB.</c>
+<c>A.
+ZINGIBER LINN.</c>
+<c>V</c>
+<c>A. ZINGIBER</c>
+<c>PA</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>SACCHARUM OFFICINARUM LINN.</c>
+<c>LAGENARIA SICERARIA STANDLEY</c>
+<c>L. VULGARIS SERINGE</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>CUCURBITA LAGENARIA LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>C. SICERARIA
+MOLINA</c>
+<c>MW</c>
+<c>PW</c>
+<c>CUCURBITA PEPO LINN.</c>
+<c>CITRULLUS COLOCYNTHIS SCHRAD.</c>
+<c>MW</c>
+<c>PW</c>
+<c>NYMPHAEA STELLATA WILLD.</c>
+<c>HK</c>
+<c>KB</c>
+<c>N. CYANEA ROXB.</c>
+<c>HK</c>
+<c>PW</c>
+<c>N. CAERULEA SAVIGN.</c>
+<c>MW</c>
+<c>N. STELLATA
+LINN.</c>
+<c>CASTALIA STELLATA BLUME</c>
+<c>KB</c>
+<c>N. LOTUS LINN.</c>
+<c>N. LOTUS HOOK. F. ET THOMS.</c>
+<c>KB</c>
+<c>N. RUBRA ROXB. EX SALISB.</c>
+<c>KB</c>
+<c>N. RUBRA</c>
+<c>PW</c>
+<c>N. ODORATA</c>
+<c>SOLAND. IN</c>
+<c>AIT.</c>
+<c>COSTUS SPECIOSUS SM.</c>
+<c>MW</c>
+<c>PW</c>
+<c>SAUSSUREA LAPPA C. B. CLARKE</c>
+<c>BOMBAX CEIBA LINN.</c>
+<c>B. MALABARICUM DC.</c>
+<c>B. HEPTA-
+PHYLLUM CAV.</c>
+<c>HK</c>
+<c>KB</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>FICUS RACEMOSA WALL.</c>
+<c>F. RACEMOSA</c>
+<c>F. RACEMOSA LINN.</c>
+<c>F. RACEMOSA WALL.</c>
+<c>F. HISPIDA LINN. F.</c>
+<c>F. GLOMERATA ROXB.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>F.
+CHITTAGONGA MIQ.</c>
+<c>AFM</c>
+<c>COVELLIA GLOMERATA MIQ.</c>
+<c>HK</c>
+<c>F. INFECTORIA ROXB.</c>
+<c>F. RACEMOSA WILLD.</c>
+<c>F. GIBBOSA BLUME</c>
+<c>KB</c>
+<c>F. TUBERCULATA ROXB.</c>
+<c>KB</c>
+<c>F. CARICA LINN.</c>
+<c>PASPALUM SCROBICULATUM LINN.</c>
+<c>KB</c>
+<c>P. FRUMENTACEUM ROTTL. EX ROEM. ET SCHULT.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>CORDIA MYXA</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>C. LATIFOLIA</c>
+<c>MW</c>
+<c>PW</c>
+<c>C. OBLIQUA</c>
+<c>V</c>
+<c>C. MYXA LINN.</c>
+<c>C. DICHOTOMA FORST. F.</c>
+<c>C. LATIFOLIA
+WALL.</c>
+<c>C. OBLIQUA WILLD.</c>
+<c>C. LATIFOLIA ROXB.</c>
+<c>C. MYXA THW.</c>
+<c>C. MYXA FORSK.</c>
+<c>CORDIA WALLICHII G. DON</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. OBLIQUA WILLD. VAR. WALLICHII C. B. CLARKE</c>
+<c>IRM</c>
+<c>KB</c>
+<c>BAUHINIA VARIEGATA LINN.</c>
+<c>KB</c>
+<c>B. ACUMINATA LINN.</c>
+<c>VETIVERIA ZIZANIOIDES</c>
+<c>LINN.</c>
+<c>NASH</c>
+<c>V. ZIZANIOIDES NASH</c>
+<c>V</c>
+<c>V. ZIZANIOIDES STAPE</c>
+<c>KB</c>
+<c>CP</c>
+<c>V. ODORATA VIREY</c>
+<c>CP</c>
+<c>PHALARIS ZIZANIOIDES LINN.</c>
+<c>ANDROPOGON MURICATUS RETZ.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>A. SQUARROSUS LINN. F.</c>
+<c>CP</c>
+<c>A. SQUARROSUS COOKE</c>
+<c>NON LINN. F.</c>
+<c>KB</c>
+<c>ANATHERUM MURICATUM BEAUV.</c>
+<c>CP</c>
+<c>ANDROPOGON LANIGER</c>
+<c>A. IWARANCUSA ROXB.</c>
+<c>A. LANIGER DESF.</c>
+<c>SPODIOPOGON ANGUSTIFOLIUS TRIN.</c>
+<c>S. LANIGER NEES EX
+STEUD.</c>
+<c>A. LANIGER MUNRO.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>KB</c>
+<c>CUCUMIS MELO LINN. VAR. MOMORDICA DUTHIE ET FULLER</c>
+<c>HK</c>
+<c>KB</c>
+<c>CP</c>
+<c>C. MOMORDICA ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. MELO LINN. VAR. UTILISSIMUS DUTHIE ET FULLER</c>
+<c>KB</c>
+<c>C. UTILISSIMUS ROXB.</c>
+<c>HB</c>
+<c>HS</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>PRUNUS CERASUS LINN.</c>
+<c>GISEKIA PHARNACIOIDES
+LINN.</c>
+<c>MUKIA SCABRELLA ARN.</c>
+<c>MELOTHRIA
+MADERASPATANA COGN.</c>
+<c>MUKIA SCABRELLA ARN.</c>
+<c>MUKIA MADERA-
+SPATANA M. ROEM</c>
+<c>DWH</c>
+<c>GISEKIA PHARNACIOIDES LINN.</c>
+<c>PRUNUS CERASUS LINN.</c>
+<c>HB</c>
+<c>GISEKIA PHARNACIOIDES LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>PW</c>
+<c>KB</c>
+<c>GISEKIA PHARNACIOIDES LINN.</c>
+<c>MW</c>
+<c>FERONIA ELEPHANTUM</c>
+<c>PW</c>
+<c>FERONIA ELEPHANTUM</c>
+<c>V</c>
+<c>GISEKIA PHARNACIOIDES.</c>
+<c>MYRICA NAGI THUNB.</c>
+<c>ELETTARIA CARDAMOMUM MATON</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>E. MAJOR SM.</c>
+<c>E. REPENS BAILL.</c>
+<c>ALPINIA CARDAMOMUM ROXB.</c>
+<c>KB</c>
+<c>AMOMUM SUBULATUM ROXB.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>A. AMARUM F. P. SMITH</c>
+<c>A. XANTHIOIDES WALL.</c>
+<c>A. KEPULAGA SPRAGUE ET BURKILL</c>
+<c>A. CARDAMOMUM ROXB.</c>
+<c>NON LINN.</c>
+<c>A. AROMATICUM ROXB.</c>
+<c>J. J.</c>
+<c>SOLANUM MELONGENA</c>
+<c>J. J.</c>
+<c>FERONIA ELEPHANTUM</c>
+<c>PIPER CUBEBA LINN. F.</c>
+<c>COCCULUS INDICUS</c>
+<c>COCCULUS INDICUS ROYLE</c>
+<c>ANAMIRTA PANICULATA
+COLEBR.</c>
+<c>MW</c>
+<c>LUVUNGA SCANDENS
+BUCH.</c>
+<c>HAM.</c>
+<c>DWH</c>
+<c>PIPER CUBEBA LINN. F.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>SETARIA ITALICA BEAUV.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>PANICUM ITALICUM LINN.</c>
+<c>HK</c>
+<c>PW</c>
+<c>CP</c>
+<c>PANICUM FRUMENTACEUM</c>
+<c>P. FRUM.</c>
+<c>SETARIA ITALICA BEAUV.</c>
+<c>P. COLONUM LINN.</c>
+<c>P. FRUMENTACEUM ROXB.</c>
+<c>SORHGUM VUL-
+GARE PERS.</c>
+<c>P. FRUMENTACEUM SALISB.</c>
+<c>P. FRUMENTACEUM ROXB.</c>
+<c>P. CRUS</c>
+<c>GALLI LINN.
+VAR. FRUMENTACEUM</c>
+<c>P. COLONUM LINN.</c>
+<c>P. FRUMENTACEUM ROXB.</c>
+<c>P. STAGNINUM RETZ. VAR. FRUMENTACEA TRIM.</c>
+<c>PAPAVER DUBIUM</c>
+<c>P. DUBIUM LINN.</c>
+<c>P. DUBIUM TENORE</c>
+<c>P. PINNATIFIDUM MORIS.</c>
+<c>P. D. LINN.</c>
+<c>PICRORRHIZA KURROA ROYLE EX BENTH.</c>
+<c>P. KURROA ROYLE</c>
+<c>DWH</c>
+<c>P. KURROA
+BENTH.</c>
+<c>HK</c>
+<c>KB</c>
+<c>P.</c>
+<c>URROA</c>
+<c>HB</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>ARECA CATECHU LINN.</c>
+<c>PA</c>
+<c>PIPER BETLE LINN.</c>
+<c>RUELLIA LONGIFOLIA</c>
+<c>PW</c>
+<c>PW</c>
+<c>R. LONGIFOLIA T. ANDERS.</c>
+<c>PW</c>
+<c>MARSILEA DEN-
+TATA</c>
+<c>CORCHORUS ANTICHORUS RAEUSCH.</c>
+<c>C.
+DEPRESSUS STOCKS</c>
+<c>KB</c>
+<c>ANTICHORUS DE-
+PRESSUS LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>GMELINA ARBOREA
+ROXB.</c>
+<c>HIBISCUS ABELMOSCHUS LINN.</c>
+<c>COCCINIA INDICA WIGHT ET ARN.</c>
+<c>KB</c>
+<c>MOMORDICA MONADELPHA ROXB.</c>
+<c>KB</c>
+<c>STRYCHNOS BEDDOMEI C. B. CLARKE</c>
+<c>DWH</c>
+<c>S. CINNAMOMIFOLIA THW.</c>
+<c>DWH</c>
+<c>S. COLUBRINA LINN.</c>
+<c>DWH</c>
+<c>S. LAURINA WALL.</c>
+<c>DWH</c>
+<c>S. RHEEDEI C. B. CLARKE</c>
+<c>DWH</c>
+<c>PICRORRHIZA KURROA ROYLE EX BENTH.</c>
+<c>DWH</c>
+<c>P.</c>
+<c>HK</c>
+<c>V</c>
+<c>PW</c>
+<c>GENTIANA KURROO ROYLE</c>
+<c>DWH</c>
+<c>LUFFA ACUTANGULA ROXB.</c>
+<c>L. AMARA ROXB.</c>
+<c>L. FOETIDA CAV.</c>
+<c>L. PLUKENETIANA
+SER.</c>
+<c>PICRORRHIZA KURROA ROYLE EX BENTH.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>HELLEBORUS NIGER LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>H. VIRIDIS LINN.</c>
+<c>PIPER LONGUM LINN.</c>
+<c>DWH</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>MW</c>
+<c>PW</c>
+<c>KB</c>
+<c>SOLANUM XANTHOCARPUM SCHRAD. ET WENDL.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>S. JACQUINI WILLD.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>S. DIFFUSUM ROXB.</c>
+<c>S. VIRGINIANUM JACQ.</c>
+<c>S. INDICUM LINN.</c>
+<c>KB</c>
+<c>S. FEROX LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>S. TRILOBATUM LINN.</c>
+<c>DWH</c>
+<c>S. TORVUM S</c>
+<c>DWH</c>
+<c>S. VERBASCIFOLIUM LINN.</c>
+<c>DWH</c>
+<c>ANTHOCEPHALUS INDICUS A. RICH.</c>
+<c>PA</c>
+<c>A. CADAMBA MIQ.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PA</c>
+<c>A. CADAMBA BENTH. ET HOOK.</c>
+<c>HK</c>
+<c>A. CADAMBA</c>
+<c>HB</c>
+<c>V</c>
+<c>A.
+MORINDAEFOLIUS KORTH.</c>
+<c>PA</c>
+<c>NAUCLEA CADAMBA ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>SARCOCEPHALUS CADAMBA KURZ</c>
+<c>PA</c>
+<c>MITRAGYNA PARVIFOLIA KORTH.</c>
+<c>NAUCLEA PARVIFOLIA ROXB.</c>
+<c>STEPHEGYNE PARVIFOLIA KORTH.</c>
+<c>ADINA CORDIFOLIA</c>
+<c>ROXB.</c>
+<c>BENTH. ET HOOK. F.</c>
+<c>A. CORDIFOLIA BENTH. ET HOOK. F.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>NAUCLEA CORDI-
+FOLIA ROXB.</c>
+<c>KB</c>
+<c>CORALLOCARPUS EPIGAEUS BENTH. ET HOOK. F.</c>
+<c>BRYONIA
+EPIGAEA ROTTL.</c>
+<c>ANDROPOGON CARICOSUS LINN.</c>
+<c>A. SERRATUS RETZ.</c>
+<c>MW</c>
+<c>PW</c>
+<c>CURCUMA LONGA LINN.</c>
+<c>MW</c>
+<c>KB</c>
+<c>PW</c>
+<c>MUCUNA PRURITA HOOK.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>M. PRURIENS DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>PA</c>
+<c>M. PRURIENS BAK.</c>
+<c>DC.</c>
+<c>KB</c>
+<c>M. PRURIENS</c>
+<c>V</c>
+<c>M. UTILIS
+WALL.</c>
+<c>PA</c>
+<c>CARPOPOGON PRURIENS ROXB.</c>
+<c>HK</c>
+<c>PA</c>
+<c>DOLICHOS PRURIENS LINN.</c>
+<c>FERONIA ELEPHANTUM CORR.</c>
+<c>AFM</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>F. LIMONIA SWINGLE</c>
+<c>F. LIMONIA</c>
+<c>LINN.</c>
+<c>SWINGLE</c>
+<c>SCHINUS LIMONIA LINN.</c>
+<c>LIMONIA ACIDISSIMA LINN.</c>
+<c>CRATAEVA VALLANGA KOEN. EX
+WIGHT ET ARN.</c>
+<c>ANISIPHALINS RUMPHII</c>
+<c>FICUS RELIGIOSA LINN.</c>
+<c>GISEKIA PHARNACIOIDES LINN.</c>
+<c>V</c>
+<c>NELUMBIUM SPECIOSUM WILLD.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>N. SPECIO-
+SUM WIGHT</c>
+<c>DWH</c>
+<c>N. NUCIFERUM GAERTN.</c>
+<c>NELUM-
+BO NUCIFERA GAERTN.</c>
+<c>KB</c>
+<c>NYMPHAEA
+NELUMBO LINN.</c>
+<c>NYMPHAEA LOTUS LINN.</c>
+<c>N. LOTUS HOOK. F. ET THOMS.</c>
+<c>KB</c>
+<c>N. RUBRA ROXB. EX SALISB.</c>
+<c>KB</c>
+<c>N.
+LOTUS LINN.</c>
+<c>N. LOTUS HOOK. F. ET THOMS.</c>
+<c>KB</c>
+<c>CROCUS SATIVUS LINN.</c>
+<c>PONGAMIA PINNATA</c>
+<c>LINN.</c>
+<c>PIERRE</c>
+<c>P. PINNATA</c>
+<c>LINN.</c>
+<c>MERRILL</c>
+<c>P. PINNATA MERRILL</c>
+<c>P. GLABRA
+VENT.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>GALEDUPA INDICA LAM.</c>
+<c>HK</c>
+<c>G. ARBOREA ROXB.</c>
+<c>DAL-
+BERGIA ARBOREA WILLD.</c>
+<c>CYTISUS PINNATUS
+LINN.</c>
+<c>HOLOPTELEA INTEGRIFOLIA PLANCH.</c>
+<c>KB</c>
+<c>PA</c>
+<c>ULMUS INTEGRIFOLIA ROXB.</c>
+<c>KB</c>
+<c>CAESALPINIA JAYABO MAZA</c>
+<c>C. BONDUC ROXB.</c>
+<c>GUILANDINA
+BONDUC LINN.</c>
+<c>CAESALPINIA CRISTA LINN.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. BONDUCELLA FLEMING</c>
+<c>IRM</c>
+<c>KB</c>
+<c>CP</c>
+<c>GUILANDINA BONDU-
+CELLA LINN.</c>
+<c>HK</c>
+<c>CLERODENDRUM SIPHONANTHUS</c>
+<c>R.</c>
+<c>OVIEDA VER-
+TICILLATUM ROXB. EX D. DON</c>
+<c>ECLIPTA ALBA</c>
+<c>LINN.</c>
+<c>HASSK.</c>
+<c>E. ERECTA
+LINN.</c>
+<c>WEDELIA CALENDULACEA LESS.</c>
+<c>CARISSA CARANDAS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>C. CONGESTA WIGHT</c>
+<c>HK</c>
+<c>C. CONGESTA WIGHT</c>
+<c>C. CARANDAS GRAHAM</c>
+<c>NON
+LINN.</c>
+<c>C. CARANDAS VAR. CONGESTA BEDD.</c>
+<c>C. DIFFUSA</c>
+<c>C. DIFFUSA RIDLEY</c>
+<c>C. SPINARUM
+DC.</c>
+<c>C. DIFFUSA ROXB.</c>
+<c>C. DIFFUSA ROXB.</c>
+<c>CAPPARIS CARANDAS BURM. F.</c>
+<c>FLACOURTIA CATAPHRACTA ROXB. EX WILLD.</c>
+<c>F. JANGOMAS</c>
+<c>LOUR.</c>
+<c>RAEUSCH.</c>
+<c>F. JANGOMAS
+RAEUSCH.</c>
+<c>F. JANGOMAS STEUD.</c>
+<c>STIGMAROTA JANGOMAS LOUR.</c>
+<c>CAPPARIS APHYLLA ROTH</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>C. DECIDUA EDGEW.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>C. SODADA R. BR.</c>
+<c>HK</c>
+<c>SODADA DECIDUA FORSK.</c>
+<c>KB</c>
+<c>C. SPINOSA LINN.</c>
+<c>PW</c>
+<c>CADABA APHYLLA ROTH</c>
+<c>CADABA JUNCEA HARV.</c>
+<c>C. APHYLLA</c>
+<c>THUNB.</c>
+<c>WILLD.</c>
+<c>ZIZYPHUS JUJUBA LAM.</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>Z. SORORIA ROEM. ET SCHULT.</c>
+<c>Z. OENOPLIA MILL.</c>
+<c>KB</c>
+<c>V</c>
+<c>Z.</c>
+<c>NAPECA ROXB.</c>
+<c>RHAMNUS OENOPLIA LINN.</c>
+<c>KB</c>
+<c>Z. ROTUNDIFOLIA LAM.</c>
+<c>Z. NUMMULARIA WIGHT ET ARN.</c>
+<c>KB</c>
+<c>KB</c>
+<c>MOMORDICA COCHINCHINENSIS SPRENG.</c>
+<c>HK</c>
+<c>MURI-
+CIA COCHINCHINENSIS LOUR.</c>
+<c>A.</c>
+<c>PW</c>
+<c>AEGLE MARMELOS</c>
+<c>LINN.</c>
+<c>CORREA</c>
+<c>SACCHARUM OFFICINARUM LINN.</c>
+<c>MOMORDICA COCHINCHINENSIS SPRENG.</c>
+<c>M. MIXTA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>M. DIOICA WALL.</c>
+<c>MURICIA COCHINCHINENSIS
+LOUR.</c>
+<c>MOMORDICA DIOICA ROXB.</c>
+<c>M. DIOICA</c>
+<c>ROXB.</c>
+<c>WALL.</c>
+<c>AEGLE MARMELOS</c>
+<c>LINN.</c>
+<c>CORREA</c>
+<c>MW</c>
+<c>PW</c>
+<c>SACCHARUM OFFICINARUM LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MOMORDICA COCHINCHINENSIS SPRENG.</c>
+<c>M. MIXTA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MURICIA COCHINCHINENSIS LOUR.</c>
+<c>BENINCASA CERIFERA SAVI</c>
+<c>KB</c>
+<c>B.
+HISPIDA COGN.</c>
+<c>B. HISPIDA</c>
+<c>THUNB.</c>
+<c>COGN.</c>
+<c>KB</c>
+<c>CINNAMOMUM CAMPHORA T. NEES ET EBERM.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. ZEYLANICUM</c>
+<c>DRYOBALANOPS AROMATICA GAERTN. F.</c>
+<c>DWH</c>
+<c>D. CAMPHORA COLEBR.</c>
+<c>BLUMEA BALSAMIFERA</c>
+<c>LINN.</c>
+<c>DC.</c>
+<c>B. DENSIFLORA DC.</c>
+<c>B. GRANDIS DC.</c>
+<c>B. LACERA DC.</c>
+<c>B. MALCOLMII HOOK. F.</c>
+<c>OCIMUM KILIMANDSCHARICUM GUERKE</c>
+<c>LIMNOPHILA GRATIOLOIDES R. BR.</c>
+<c>CURCUMA ZEDOARIA</c>
+<c>BERGIUS</c>
+<c>ROSC.</c>
+<c>C.
+ZERUMBET ROXB.</c>
+<c>AMOMUM ZEDOARIA BERGIUS.</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>P. ARVENSE LINN.</c>
+<c>LATHYRUS SATIVUS LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>LATHYRUS SATIVUS LINN.</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>LATHYRUS SATIVUS LINN.</c>
+<c>SCIRPUS KYSOOR ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>PW</c>
+<c>V</c>
+<c>S. GROSSUS LINN. F.</c>
+<c>KB</c>
+<c>CYPERUS ROTUNDUS LINN.</c>
+<c>KB</c>
+<c>C. ESCULENTUS LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>EUONYMUS TINGENS WALL.</c>
+<c>CYPERUS ROTUNDUS LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>C. SCARIOSUS R. BR.</c>
+<c>C. PERTENUIS ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>SCIRPUS TUBEROSUS</c>
+<c>ELEOCHARIS TUBEROSA SCHULT.</c>
+<c>S. TUBEROSUS ROXB.</c>
+<c>S. MARITIMUS LINN.</c>
+<c>S. TUBEROSUS DESF.</c>
+<c>S. ARTICULATUS LINN.</c>
+<c>C. ESCULENTUS LINN.</c>
+<c>MARSILEA DENTATA</c>
+<c>ABRUS PRECATORIUS LINN.</c>
+<c>HK</c>
+<c>DIOSPYROS TOMENTOSA ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>PW</c>
+<c>D. MELANOXYLON ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>STRYCHNOS NUX</c>
+<c>VOMICA LINN.</c>
+<c>KB</c>
+<c>CAPPARIS SEPIARIA LINN.</c>
+<c>KB</c>
+<c>C. INCANESCENS
+DC.</c>
+<c>KB</c>
+<c>ABRUS PRECATORIUS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CAPPARIS SEPIARIA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>C. INCANESCENS DC.</c>
+<c>KB</c>
+<c>C. SPINOSA LINN.</c>
+<c>V</c>
+<c>ARDISIA HUMILIS VAHL</c>
+<c>A. SOLANACEA ROXB.</c>
+<c>ZIZYPHUS JUJUBA LAM.</c>
+<c>PW</c>
+<c>CAPPARIS SEPIARIA LINN.</c>
+<c>KB</c>
+<c>HYGROPHILA SPINOSA T. ANDERS.</c>
+<c>ASTERACANTHA LONGI-
+FOLIA NEES</c>
+<c>PW</c>
+<c>NARDOSTACHYS JATAMANSI DC.</c>
+<c>PW</c>
+<c>SOLANUM NIGRUM LINN.</c>
+<c>FICUS HISPIDA LINN. F.</c>
+<c>F. OPPOSITIFOLIA WILLD.</c>
+<c>HYGROPHILA SPINOSA T. ANDERS.</c>
+<c>KB</c>
+<c>ASTERACANTHA LONGIFOLIA NEES</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>RUELLIA LONGIFOLIA ROXB.</c>
+<c>SACCHARUM SPONTANEUM LINN.</c>
+<c>HB</c>
+<c>MW</c>
+<c>PW</c>
+<c>GOSSYPIUM HERBACEUM LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>G. HIRSUTUM LINN.</c>
+<c>G. INDICUM LAM.</c>
+<c>G. RELIGIOSUM LINN.</c>
+<c>G. ARBOREUM LINN.</c>
+<c>G. STOCKSII MAST. VAR. HERBACEUM LINN.</c>
+<c>DWH</c>
+<c>OCIMUM SANCTUM LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>SACCHARUM SPONTANEUM LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>GMELINA ARBOREA ROXB.</c>
+<c>AFM</c>
+<c>KB</c>
+<c>PA</c>
+<c>PW</c>
+<c>G. ARBOREA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>G. ARBOREA</c>
+<c>MW</c>
+<c>V</c>
+<c>G. ASIATICA LINN.</c>
+<c>PA</c>
+<c>MYRICA NAGI THUNB.</c>
+<c>HOLARRHENA ANTIDYSENTERICA WALL.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>CP</c>
+<c>H. CODAGA G. DON</c>
+<c>PA</c>
+<c>ECHITES ANTIDYSENTERICA
+ROXB. EX FLEM.</c>
+<c>HK</c>
+<c>PA</c>
+<c>WRIGHTIA ANTIDYSENTERICA J. GRAH.</c>
+<c>HK</c>
+<c>PA</c>
+<c>W. ANTIDYSENTERICA R. BR.</c>
+<c>PW</c>
+<c>W. ANTI-
+DYSENTERICA</c>
+<c>MW</c>
+<c>NERIUM ANTIDYSENTERICUM LINN.</c>
+<c>CHONEMORPHA ANTIDYSEN-
+TERICA G. DON</c>
+<c>WRIGHTIA TINCTORIA R. BR.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>W. ROTHII G. DON</c>
+<c>W. TOMENTOSA ROEM. ET SCHULT.</c>
+<c>DWH</c>
+<c>PA</c>
+<c>HOLARRHENA PUBESCENS WALL.</c>
+<c>DWH</c>
+<c>CLEISTANTHUS COLLINUS BENTH. ET HOOK. F.</c>
+<c>KB</c>
+<c>CLUYTIA COLLINA ROXB.</c>
+<c>KB</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>O. SANCTUM LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>O. GRATISSIMUM LINN.</c>
+<c>MW</c>
+<c>O. CANUM SIMS</c>
+<c>KB</c>
+<c>CEDRELA TOONA ROXB. EX ROTTL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PW</c>
+<c>A.</c>
+<c>A.</c>
+<c>CAREYA ARBOREA ROXB.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>V</c>
+<c>STEREOSPERMUM SUAVEOLENS DC.</c>
+<c>KB</c>
+<c>BIGNONIA SUAVEOLENS ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>LEUCAS LAVANDULAEFOLIA SM.</c>
+<c>L. LINIFOLIA SPRENG.</c>
+<c>KB</c>
+<c>PW</c>
+<c>LEUCAS CAPITATA DESF.</c>
+<c>L. CEPHALOTES SPRENG.</c>
+<c>PW</c>
+<c>MYRICA NAGI THUNB.</c>
+<c>KB</c>
+<c>M. SAPIDA WALL.</c>
+<c>MW</c>
+<c>M. CERIFERA LINN.</c>
+<c>BALIOSPERMUM AXILLARE BLUME</c>
+<c>B. MONTANUM MUELL. ARG.</c>
+<c>KB</c>
+<c>CROTON POLYANDRUS ROXB.</c>
+<c>MW</c>
+<c>BOSWELLIA SERRATA ROXB. EX COLEBR.</c>
+<c>KB</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>KB</c>
+<c>BALSAMODEN-
+DRUM MUKUL HOOK. EX STOCKS</c>
+<c>KB</c>
+<c>B. ROX-
+BURGHII STOCKS</c>
+<c>KB</c>
+<c>DOLICHOS BIFLORUS LINN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>CP</c>
+<c>D. BIFLORUS LINN. VAR. UNIFLORUS LAM.</c>
+<c>D. UNIFLORUS LAM.</c>
+<c>AFM</c>
+<c>HK</c>
+<c>MW</c>
+<c>CP</c>
+<c>CASSIA ABSUS LINN.</c>
+<c>KB</c>
+<c>ZIZYPHUS JUJUBA LAM.</c>
+<c>MW</c>
+<c>PW</c>
+<c>Z. SATIVA GAERTN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>SAUSSUREA LAPPA C. B. CLARKE</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>APLOTAXIS LAPPA DECNE.</c>
+<c>AUCKLANDIA
+COSTUS FALCONER</c>
+<c>SAUSSUREA HYPOLEUCA SPRENG. EX DC.</c>
+<c>S. AURICULATA</c>
+<c>DC.</c>
+<c>HS</c>
+<c>MW</c>
+<c>APLOTAXIS AURICULATA DC.</c>
+<c>HK</c>
+<c>COSTUS SPECIOSUS SM.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>C. ARABICUS LINN.</c>
+<c>CARTHAMUS TINCTORIUS LINN.</c>
+<c>PIPER LONGUM LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>VITEX NEGUNDO LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>NARDOSTACHYS JATAMANSI DC.</c>
+<c>CYNODON DACTYLON</c>
+<c>LINN.</c>
+<c>PERS.</c>
+<c>VITIS VINIFERA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>VERNONIA ANTHELMINTICA WILLD.</c>
+<c>PSORALEA CORYLIFOLIA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CROCUS SATIVUS LINN.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MALLOTUS PHILIPPINENSIS MUELL. ARG.</c>
+<c>KB</c>
+<c>PASPALUM SCROBICULATUM LINN.</c>
+<c>CP</c>
+<c>ZIZYPHUS JUJUBA LAM.</c>
+<c>Z. OENOPLIA MILL.</c>
+<c>Z. LACCIFERA</c>
+<c>ARECA CATECHU LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CP</c>
+<c>A. FAUFEL GAERTN.</c>
+<c>MW</c>
+<c>MORUS INDICA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>SYMPLOCOS CRATAEGOIDES BUCH.</c>
+<c>HAM. EX
+D. DON</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>S. PANICULATA WALL. EX D. DON</c>
+<c>CEDRUS LIBANI BARREL</c>
+<c>PINUS DEODARA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>ACHYRANTHES ASPERA LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>CENTIPEDA ORBICULARIS LOUR.</c>
+<c>KB</c>
+<c>C.
+MINIMA A. BR. ET ASCHERS</c>
+<c>ARTEMISIA STERNUTATORIA ROXB.</c>
+<c>KB</c>
+<c>MYRIOGYNE MINUTA LESS.</c>
+<c>DICHROCEPHALA
+SCHMIDII WIGHT</c>
+<c>KB</c>
+<c>MYRIOGYNE LANUGINOSA</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>ACACIA CATECHU WILLD.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>A. CATECHU LINN.</c>
+<c>HK</c>
+<c>A. POLYACANTHA
+WILLD.</c>
+<c>A. WALLICHIANA DC.</c>
+<c>MIMOSA CATECHU LINN. F.</c>
+<c>HK</c>
+<c>ACACIA SUNDRA DC.</c>
+<c>A. SUMA BUCH.</c>
+<c>HAM. EX WALL.</c>
+<c>A. SUMA KURZ EX BRANDIS</c>
+<c>IRM</c>
+<c>A. PENNATA WILLD.</c>
+<c>KB</c>
+<c>A.
+FERRUGINEA ROTTL.</c>
+<c>A. FERRUGINEA DC.</c>
+<c>KB</c>
+<c>A. SENEGAL WILLD.</c>
+<c>KB</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM
+MAJORANA LINN.</c>
+<c>KB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>OCIMUM</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>TECTONA GRANDIS LINN. F.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>BETULA UTILIS D. DON</c>
+<c>B. BHOJPATTRA
+WALL.</c>
+<c>STREBLUS ASPER LOUR.</c>
+<c>TROPHIS ASPERA RETZ.</c>
+<c>MW</c>
+<c>NYCTANTHES ARBOR</c>
+<c>TRISTIS LINN.</c>
+<c>KB</c>
+<c>PHOENIX SYLVESTRIS ROXB.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>PH. DACTYLIFERA LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>SCINDAPSUS OFFICINALIS SCHOTT</c>
+<c>POTHOS OFFICINALIS ROXB.</c>
+<c>LITSEA POLYANTHA JUSS.</c>
+<c>KB</c>
+<c>L. SEBIFERA PERS.</c>
+<c>TETRANTHERA APETALA ROXB.</c>
+<c>ROXB.</c>
+<c>TOMEX SEBIFERA WILLD.</c>
+<c>PW</c>
+<c>MW</c>
+<c>MW</c>
+<c>RUBIA CORDIFOLIA LINN.</c>
+<c>HB</c>
+<c>EUPHORBIA NERIIFOLIA LINN.</c>
+<c>DWH</c>
+<c>E. ANTIQUORUM LINN.</c>
+<c>DWH</c>
+<c>SOLANUM VERBASCIFOLIUM LINN.</c>
+<c>KB</c>
+<c>S. PUBESCENS WILLD.</c>
+<c>MORINGA OLEIFERA LAM.</c>
+<c>M. PTERYGOSPERMA GAERTN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM
+MAJORANA LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>CITRUS AURANTIUM LINN.</c>
+<c>PW</c>
+<c>CP</c>
+<c>ARISTOLOCHIA INDICA LINN.</c>
+<c>ABRUS PRECATORIUS LINN.</c>
+<c>A. MINOR DESV.</c>
+<c>A. PAUCIFLORUS DESV.</c>
+<c>GLYCINE ABRUS LINN.</c>
+<c>TINOSPORA CORDIFOLIA</c>
+<c>WILLD.</c>
+<c>MIERS</c>
+<c>T. CORDIFOLIA MIERS</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>MENISPERMUM CORDIFOLIUM WILLD.</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>M. CORDIFOLIUM
+RUSSELL</c>
+<c>M. GLABRUM BURM. F.</c>
+<c>PA</c>
+<c>COCCULUS CORDIFOLIUS DC.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>TINOSPORA CRISPA MIERS</c>
+<c>DWH</c>
+<c>T. CORDIFOLIA</c>
+<c>PA</c>
+<c>MENISPERMUM CRISPUM LINN.</c>
+<c>T. MALABARICA MIERS</c>
+<c>PA</c>
+<c>MENISPERMUM MALABARICUM LAM.</c>
+<c>T. TOMENTOSA MIERS</c>
+<c>PA</c>
+<c>PA</c>
+<c>MENISPERMUM
+TOMENTOSUM ROXB.</c>
+<c>TRIBULUS TERRESTRIS LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>T. LANUGINOSUS LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>T. ZEYLANICUS</c>
+<c>T. ALATUS DELILE</c>
+<c>PEDALIUM MUREX LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>HYGROPHILA SPINOSA T. ANDERS.</c>
+<c>ASTERACANTHA LONGIFOLIA
+NEES</c>
+<c>MW</c>
+<c>PW</c>
+<c>BARLERIA LONGIFLORA LINN. F.</c>
+<c>KB</c>
+<c>ELEPHANTOPUS SCABER LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>ONOSMA BRACTEATUM WALL.</c>
+<c>LEUCAS ASPERA LINK</c>
+<c>PHLOMIS ESCULENTA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PREMNA ESCULENTA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>P.</c>
+<c>E. ROXB.</c>
+<c>HIERACIUM</c>
+<c>MW</c>
+<c>PW</c>
+<c>POLYTOCA BARBATA STAPF</c>
+<c>CHIONACHNE BARBATA R. BR.</c>
+<c>COIX BARBATA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>KB</c>
+<c>COIX LACHRYMA</c>
+<c>JOBI LINN.</c>
+<c>PW</c>
+<c>PIPER LONGUM LINN.</c>
+<c>MW</c>
+<c>CYNODON DACTYLON</c>
+<c>LINN.</c>
+<c>PERS.</c>
+<c>DWH</c>
+<c>CYPERUS ROTUNDUS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>POLYGONUM AVICULARE LINN.</c>
+<c>ARTEMISIA VULGARIS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>SCHREBERA SWIETENIOIDES ROXB.</c>
+<c>KB</c>
+<c>MW</c>
+<c>ELAEODENDRON GLAUCUM PERS.</c>
+<c>E. PANICULATUM WIGHT ET ARN.</c>
+<c>STEREOSPERMUM SUAVEOLENS DC.</c>
+<c>HS</c>
+<c>BIGNONIA SUAVEO-
+LENS ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>CICER ARIETINUM LINN.</c>
+<c>I.</c>
+<c>C.</c>
+<c>H.</c>
+<c>SANTALUM ALBUM LINN.</c>
+<c>S. MYRTIFOLIUM ROXB.</c>
+<c>SIRIUM
+MYRTIFOLIUM LINN.</c>
+<c>PTEROCARPUS SANTALINUS LINN. F.</c>
+<c>CAESALPINIA SAPPAN LINN.</c>
+<c>CP</c>
+<c>BERBERIS ASIATICA ROXB. EX DC.</c>
+<c>KB</c>
+<c>CROCUS SATIVUS LINN.</c>
+<c>KB</c>
+<c>PIPER CHABA HUNTER.</c>
+<c>OXALIS CORNICULATA LINN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>O. MONADELPHA ROXB. EX WIGHT ET ARN.</c>
+<c>O. PROCUM-
+BENS STEUD. EX A. RICH.</c>
+<c>O. PUSILLA SALISB.</c>
+<c>PW</c>
+<c>RUMEX DENTATUS LINN.</c>
+<c>RUMEX SCUTATUS LINN.</c>
+<c>R. CORNICULATA</c>
+<c>BETA VULGARIS LINN.</c>
+<c>B. BENGALENSIS ROXB.</c>
+<c>PLUMBAGO ZEYLANICA LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>P. INDICA LINN.</c>
+<c>P. ROSEA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>P. COCCINEA BOISS.</c>
+<c>PA</c>
+<c>P. CAPENSIS THUNB.</c>
+<c>RICINUS COMMUNIS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>PTEROSPERMUM SUBERIFOLIUM LAM.</c>
+<c>KB</c>
+<c>V</c>
+<c>AMORPHOPHALLUS CAMPANULATUS BLUME EX DECNE.</c>
+<c>ARUM
+CAMPANULATUM ROXB.</c>
+<c>HB</c>
+<c>CUCUMIS MELO LINN. VAR. MOMORDICA DUTHIE ET FULLER</c>
+<c>KB</c>
+<c>C. MOMORDICA ROXB.</c>
+<c>KB</c>
+<c>C. MELO LINN.</c>
+<c>C. MELO LINN.</c>
+<c>C. DUDAIM LINN.</c>
+<c>C. MADRAS-
+PATANUS ROXB.</c>
+<c>C. TRIGONUS ROXB.</c>
+<c>KB</c>
+<c>C. PSEUDOCOLOCYN-
+THIS ROYLE</c>
+<c>KB</c>
+<c>CUCUMIS ANGUINUS</c>
+<c>TRICHOSANTHES ANGUINA LINN.</c>
+<c>C. ANGUINUS LINN.</c>
+<c>C. PROPHETARUM LINN.</c>
+<c>C. ANGUINUS T.
+ANDERS.</c>
+<c>CARICA PAPAYA LINN.</c>
+<c>KB</c>
+<c>RUMEX VESICARIUS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>PW</c>
+<c>RUMEX ACETOSELLA LINN.</c>
+<c>OXALIS CORNICULATA LINN.</c>
+<c>KB</c>
+<c>O. PUSILLA SALISB.</c>
+<c>PW</c>
+<c>PW</c>
+<c>KB</c>
+<c>CHENO-
+PODIUM ALBUM LINN.</c>
+<c>TAMARINDUS INDICA LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>BORASSUS FLABELLIFER LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ARTOCARPUS INTEGRIFOLIA LINN.</c>
+<c>F.</c>
+<c>A.</c>
+<c>SYZYGIUM AROMATICUM</c>
+<c>LINN.</c>
+<c>MERR. ET L. M. PERRY</c>
+<c>TRIGONELLA CORNICULATA LINN.</c>
+<c>HB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CHRYSOPOGON ACICULATUS TRIN.</c>
+<c>HK</c>
+<c>ANDROPOGON ACICU-
+LATUS RETZ.</c>
+<c>HK</c>
+<c>ANGELICA GLAUCA EDGEW.</c>
+<c>GYNANDROPSIS GYNANDRA MERR.</c>
+<c>KB</c>
+<c>G.
+PENTAPHYLLA DC.</c>
+<c>KB</c>
+<c>CLEOME PENTAPHYLLA LINN.</c>
+<c>KB</c>
+<c>A.</c>
+<c>OCIMUM CANUM SIMS</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM
+MAJORANA LINN.</c>
+<c>KB</c>
+<c>CITRUS MEDICA LINN.</c>
+<c>C. ACIDA PERS.</c>
+<c>SYZYGIUM CUMINI</c>
+<c>LINN.</c>
+<c>SKEELS</c>
+<c>S. CUMINI SKEELS</c>
+<c>S. JAMBOLANUM DC.</c>
+<c>AFM</c>
+<c>PA</c>
+<c>S. JAMBOLANA WIGHT ET ARN.</c>
+<c>HK</c>
+<c>S. CARYOPHYLLIFOLIUM DC.</c>
+<c>PA</c>
+<c>EUGENIA
+JAMBOLANA LAM.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>E. JAMBOLANA LAM. VAR. CARYOPHYLLIFOLIA</c>
+<c>PA</c>
+<c>E. CARYOPHYLLIFOLIA LAM.</c>
+<c>KB</c>
+<c>PA</c>
+<c>E. FRONDOSA WALL.</c>
+<c>PA</c>
+<c>E. OBTUSI-
+FOLIA ROXB.</c>
+<c>PA</c>
+<c>CALYPTRANTHES JAMBOLANA WILLD.</c>
+<c>PA</c>
+<c>C. CAPITELLATA BUCH.</c>
+<c>HAM. EX WALL.</c>
+<c>PA</c>
+<c>C. CARYOPHYLLIFOLIA WILLD.</c>
+<c>MYRTUS CUMINI LINN.</c>
+<c>SYZYGIUM FRUTICOSUM DC.</c>
+<c>EUGENIA FRUTICOSA ROXB.</c>
+<c>JAMBOSA JAMBOS</c>
+<c>LINN.</c>
+<c>MILLSP.</c>
+<c>J. VULGARIS
+DC.</c>
+<c>KB</c>
+<c>SYZYGIUM JAMBOS</c>
+<c>LINN.</c>
+<c>ALST.</c>
+<c>EUGENIA JAMBOS LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>SYZYGIUM CARYOPHYLLAEUM GAERTN.</c>
+<c>PA</c>
+<c>EUGENIA CARYOPHYLLAEA WIGHT</c>
+<c>PA</c>
+<c>CALYPTRANTHES CARYOPHYLLATA PERS.</c>
+<c>PA</c>
+<c>MYRTUS
+CARYOPHYLLATA LINN.</c>
+<c>PA</c>
+<c>SYZYGIUM OPERCULATUM GAMBLE</c>
+<c>EUGENIA OPERCULATA
+ROXB.</c>
+<c>KB</c>
+<c>E. CERA-
+SOIDES ROXB.</c>
+<c>KB</c>
+<c>SYZYGIUM RUBICUNDUM WIGHT ET ARN.</c>
+<c>EUGENIA RUBICUNDA</c>
+<c>IGHT</c>
+<c>PREMNA HERBACEA ROXB.</c>
+<c>ARDISIA HUMILIS VAHL</c>
+<c>A. SOLANACEA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>LIPPIA NODIFLORA MICHX.</c>
+<c>KB</c>
+<c>PHYLA NODIFLORA</c>
+<c>LINN.</c>
+<c>GREENE</c>
+<c>VERBENA
+NODIFLORA LINN.</c>
+<c>LIPPIA NODIFLORA</c>
+<c>LINN.</c>
+<c>RICH. IN MICHX.</c>
+<c>COMMELINA SALICIFOLIA ROXB.</c>
+<c>KB</c>
+<c>SAPIUM SEBIFERUM ROXB.</c>
+<c>KB</c>
+<c>CUMINUM CYMINUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>CARUM CARVI LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>NIGELLA SATIVA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>KB</c>
+<c>V</c>
+<c>N. INDICA ROXB. EX FLEM.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>VERNONIA ANTHELMINTICA WILLD.</c>
+<c>KB</c>
+<c>V</c>
+<c>CENTRATHERUM ANTHELMINTICUM</c>
+<c>WILLD.</c>
+<c>KUNTZE</c>
+<c>C. ANTHELMINTICUM O. KUNTZE</c>
+<c>KB</c>
+<c>SERRATULA ANTHELMINTICA ROXB.</c>
+<c>ASCARICIDA INDICA CASS.</c>
+<c>CONYZA
+ASCARADIA</c>
+<c>CONYZA ANTHELMINTICA LINN.</c>
+<c>PANICUM MILIACEUM LINN.</c>
+<c>MW</c>
+<c>SORGHUM VULGARE</c>
+<c>LINN.</c>
+<c>PERS. VAR. SACCHARATUM BOERL.</c>
+<c>S. VULGARE PERS.</c>
+<c>ANDROPOGON BICOLOR ROXB.</c>
+<c>MW</c>
+<c>A. SACCHA-
+RATUS ROXB.</c>
+<c>PW</c>
+<c>CELASTRUS PANICULATUS WILLD.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>CARDIOSPERMUM HALICACABUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>ERVATAMIA DIVARICATA BURKILL</c>
+<c>W.</c>
+<c>TABERNAEMON-
+TANA CORONARIA WILLD.</c>
+<c>KB</c>
+<c>T. CORONARIA R.
+BR.</c>
+<c>T. CORONARIA</c>
+<c>HB</c>
+<c>DWH</c>
+<c>HK</c>
+<c>NERIUM DIVARICATUM LINN.</c>
+<c>ERVATAMIA CORONARIA STAPF</c>
+<c>KB</c>
+<c>ERVATAMIA HEYNEANA COOKE</c>
+<c>TABERNAEMONTANA HEYNEANA
+WALL.</c>
+<c>DWH</c>
+<c>T. DICHOTOMA ROXB.</c>
+<c>DWH</c>
+<c>VALERIANA WALLICHII DC.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V. BRUNONIANA C. B. CLARKE</c>
+<c>V. LESCHENAULTII DC.</c>
+<c>V. BRUNONIANA
+WIGHT ET ARN.</c>
+<c>ORYZA SATIVA LINN.</c>
+<c>EMBELIA RIBES BURM. F.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>AMARANTHUS POLYGAMUS LINN.</c>
+<c>HK</c>
+<c>A. POLY-
+GONOIDES ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>AMBLOGYNA POLYGONOIDES DALZ. ET
+GIBS.</c>
+<c>AMARANTHUS SPINOSUS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>A. VIRIDIS LINN.</c>
+<c>KB</c>
+<c>A. GANGETICUS LINN. VAR. TRISTIS PRAIN</c>
+<c>KB</c>
+<c>A. GANGETICUS LINN.</c>
+<c>A. TRICOLOR LINN.</c>
+<c>A. TRISTIS LINN.</c>
+<c>A. BLITUM LINN.</c>
+<c>V</c>
+<c>A. GANGETICUS WALL.</c>
+<c>GARCINIA XANTHOCHYMUS HOOK. F. EX T. ANDERS.</c>
+<c>XANTHO-
+CHYMUS PICTORIUS ROXB.</c>
+<c>HS</c>
+<c>COMMELINA BENGHALENSIS LINN.</c>
+<c>KB</c>
+<c>BORASSUS FLABELLIFER LINN.</c>
+<c>B. FLABELLIFORMIS MURR.</c>
+<c>SESAMUM INDICUM DC.</c>
+<c>S. ORIENTALE LINN.</c>
+<c>S. LUTEUM
+RETZ.</c>
+<c>S. TRIFOLIATUM MILL.</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>MW</c>
+<c>PW</c>
+<c>OCIMUM SANC-
+TUM LINN.</c>
+<c>KB</c>
+<c>MORINGA PTERYGOSPERMA GAERTN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ACORUS CALAMUS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>COCCINIA INDICA WIGHT ET ARN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>ZANTHOXYLUM ALATUM ROXB.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>Z. HOSTILE
+WALL.</c>
+<c>HK</c>
+<c>Z. BUDRUNGA WALL.</c>
+<c>DWH</c>
+<c>Z. RHETSA DC.</c>
+<c>DWH</c>
+<c>V</c>
+<c>DWH</c>
+<c>KB</c>
+<c>Z. ACANTHOPODIUM DC.</c>
+<c>DWH</c>
+<c>Z. OXYPHYLLUM EDGEW.</c>
+<c>DWH</c>
+<c>Z. HAMILTONIANUM WALL.</c>
+<c>DWH</c>
+<c>CORIANDRUM SATIVUM LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>HB</c>
+<c>DIOSPYROS EMBRYOPTERIS PERS.</c>
+<c>D. EMBRYO-
+PTERIS LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>D. PEREGRINA GUERKE</c>
+<c>EMBRYOPTERIS
+PEREGRINA GAERTN.</c>
+<c>DIOSPYROS MELANOXYLON ROXB.</c>
+<c>EXCOECARIA AGALLOCHA LINN.</c>
+<c>OCIMUM SANCTUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>O. HIRSUTUM BENTH.</c>
+<c>O. TOMENTOSUM LAM.</c>
+<c>O. BASILICUM LINN.</c>
+<c>O. ALBUM LINN.</c>
+<c>O. GRATISSIMUM LINN.</c>
+<c>KB</c>
+<c>O. CANUM SIMS</c>
+<c>KB</c>
+<c>O. AMERI-
+CANUM LINN.</c>
+<c>KB</c>
+<c>OCIMUM VIRIDE WILLD.</c>
+<c>ORTHOSIPHON STAMINEUS BENTH.</c>
+<c>OCIMUM GRANDI-
+FLORUM BLUME</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>PIPER CHABA HUNTER</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>PIPER NIGRUM LINN.</c>
+<c>SCINDAPSUS OFFICINALIS SCHOTT</c>
+<c>MW</c>
+<c>PW</c>
+<c>POTHOS
+OFFICINALIS ROXB.</c>
+<c>ACORUS CALAMUS LINN.</c>
+<c>ZANTHOXYLUM ALATUM ROXB.</c>
+<c>Z. RHETSA DC.</c>
+<c>KB</c>
+<c>Z. BUDRUNGA WALL.</c>
+<c>KB</c>
+<c>FAGARA
+BUDRUNGA ROXB.</c>
+<c>KB</c>
+<c>LATHYRUS SATIVUS LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>PW</c>
+<c>IPOMOEA TURPETHUM R. BR.</c>
+<c>DWH</c>
+<c>CINNAMOMUM ZEYLANICUM NEES</c>
+<c>C. ZEYLANICUM BREYN</c>
+<c>C. ZEYLANICUM BREYN</c>
+<c>C. ZEYLANICUM NEES</c>
+<c>C. ZEYLANICUM BLUME</c>
+<c>LAURUS CINNAMOMUM LINN.</c>
+<c>L. CASSIA
+LINN.</c>
+<c>L. CINNAMOMUM</c>
+<c>L. CASSIA</c>
+<c>C. ZEYLANICUM BREYN</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. ZEYLANICUM</c>
+<c>HK</c>
+<c>CINNAMOMUM ZEYLANICUM BLUME</c>
+<c>C. CASSIA BLUME</c>
+<c>DWH</c>
+<c>C. AROMATICUM NEES</c>
+<c>C. MACROCARPUM HOOK. F.</c>
+<c>KB</c>
+<c>C. SAIGONICUM FARWELL</c>
+<c>C. LAURUS</c>
+<c>BALIOSPERMUM AXILLARE BLUME</c>
+<c>B. MONTANUM MUELL. ARG.</c>
+<c>CROTON POLYANDRUS ROXB.</c>
+<c>JATROPHA MONTANA WILLD.</c>
+<c>CROTON TIGLIUM LINN.</c>
+<c>KB</c>
+<c>JATROPHA CURCAS LINN.</c>
+<c>V</c>
+<c>J. MULTIFIDA LINN.</c>
+<c>V</c>
+<c>IMPERATA ARUNDINACEA CYRILL.</c>
+<c>HK</c>
+<c>I. CYLINDRICA
+BEAUV.</c>
+<c>HK</c>
+<c>SACCHARUM CYLINDRICUM LAM.</c>
+<c>HS</c>
+<c>MW</c>
+<c>DESMOSTACHYA BIPINNATA STAPF</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>ERAGROSTIS CYNOSUROIDES BEAUV.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>BRIZA BIPINNATA
+LINN.</c>
+<c>UNIOLA BIPINNATA LINN.</c>
+<c>POA CYNOSUROIDES RETZ.</c>
+<c>CYNODON DACTYLON</c>
+<c>LINN.</c>
+<c>PERS.</c>
+<c>PANICUM DACTYLON LINN.</c>
+<c>SACCHARUM SPONTANEUM LINN.</c>
+<c>PUNICA GRANATUM LINN.</c>
+<c>BERBERIS ARISTATA DC.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>B. ARISTATA VAR. FLORIBUNDA
+HOOK.</c>
+<c>F. ET THOMS.</c>
+<c>KB</c>
+<c>B. CORIARIA ROYLE EX
+LINDL.</c>
+<c>KB</c>
+<c>B. CHITRIA D. DON</c>
+<c>B. ASIATICA ROXB. EX DC.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>KB</c>
+<c>PA</c>
+<c>B. LYCIUM ROYLE</c>
+<c>DWH</c>
+<c>B. VULGARIS LINN.</c>
+<c>PA</c>
+<c>B. CORIACEA BRANDIS EX GAMBLE</c>
+<c>B. NEPALENSIS</c>
+<c>B. NEPALENSIS SPRENG.</c>
+<c>B. VULGARIS LINN.</c>
+<c>B.
+NEPALENSIS HORT. EX C. KOCH</c>
+<c>COSCINIUM FENESTRATUM</c>
+<c>GAERTN.</c>
+<c>COLEBR.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. FENESTRATUM COLEBR.</c>
+<c>AFM</c>
+<c>PA</c>
+<c>V</c>
+<c>MENISPERMUM FENESTRATUM GAERTN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>CURCUMA AROMATICA SALISB.</c>
+<c>MW</c>
+<c>C. XANTHORRHIZA ROXB.</c>
+<c>MW</c>
+<c>MORINDA UMBELLATA LINN.</c>
+<c>KB</c>
+<c>APIUM GRAVEOLENS LINN.</c>
+<c>KB</c>
+<c>TRACHYSPERMUM ROXBURGHIANUM H. WOLFF</c>
+<c>CARUM ROX-
+BURGHIANUM BENTH. ET HOOK.</c>
+<c>F.</c>
+<c>APIUM INVOLUCRATUM ROXB. EX FLEM.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PTYCHOTIS ROXBURGHIANA DC.</c>
+<c>PIMPINELLA INVOLU-
+CRATA WIGHT ET ARN.</c>
+<c>TRACHYSPERMUM COPTICUM</c>
+<c>LINN.</c>
+<c>LINK</c>
+<c>CARUM
+COPTICUM BENTH. ET HOOK. F.</c>
+<c>KB</c>
+<c>V</c>
+<c>C.
+AJOWAN BENTH. ET HOOK.</c>
+<c>F.</c>
+<c>PTYCHOTIS AJOWAN DC.</c>
+<c>MW</c>
+<c>PW</c>
+<c>AMMI COPTICUM LINN.</c>
+<c>LIGUSTICUM AJAWAIN ROXB. EX FLEM.</c>
+<c>CUMINUM CYMINUM LINN.</c>
+<c>HK</c>
+<c>KB</c>
+<c>CARUM PETROSELINUM BENTH. ET HOOK. F.</c>
+<c>APIUM
+PETROSELINUM LINN.</c>
+<c>CELOSIA ARGENTEA LINN.</c>
+<c>C. CRISTATA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ARISTOLOCHIA INDICA LINN.</c>
+<c>PLUMBAGO INDICA LINN.</c>
+<c>P. ROSEA LINN.</c>
+<c>CROCUS SATIVUS LINN.</c>
+<c>HYOSCYAMUS NIGER LINN.</c>
+<c>KB</c>
+<c>SORGHUM VULGARE</c>
+<c>LINN.</c>
+<c>PERS. VAR. SACCHARATUM BOERL.</c>
+<c>S. VULGARE PERS.</c>
+<c>S. SACCHARATUM MOENCH.</c>
+<c>DWH</c>
+<c>S. CERNUUM WILLD.</c>
+<c>MW</c>
+<c>ANDROPOGON SACCHARATUS ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>A. SORGHUM ROXB.</c>
+<c>PW</c>
+<c>A. SOR-
+GHUM BROT.</c>
+<c>MW</c>
+<c>HOLCUS SACCHARATUM LINN.</c>
+<c>MW</c>
+<c>I.</c>
+<c>C.</c>
+<c>H.</c>
+<c>ZEA MAYS LINN.</c>
+<c>VITIS VINIFERA LINN.</c>
+<c>DATURA STRAMONIUM LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>D.
+TATULA LINN.</c>
+<c>D. METEL LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>D. FASTUOSA LINN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PW</c>
+<c>V</c>
+<c>D. ALBA NEES</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>D. FASTUOSA LINN. VAR. ALBA C. B. CLARKE</c>
+<c>AFM</c>
+<c>HK</c>
+<c>KB</c>
+<c>D. INNOXIA MILL.</c>
+<c>D. NILHUMMATU DUN.</c>
+<c>D. METEL LINN.</c>
+<c>D.
+FASTUOSA LINN.</c>
+<c>D. INNOXIA MILL.</c>
+<c>D. METEL LINN.</c>
+<c>D. FASTUOSA LINN.</c>
+<c>D. ALBA NEES</c>
+<c>IRM</c>
+<c>D. INNOXIA MILL.</c>
+<c>D. METEL AUCTT.</c>
+<c>NON LINN.</c>
+<c>D. METEL
+LINN.</c>
+<c>D. FASTUOSA LINN.</c>
+<c>D. ALBA NEES</c>
+<c>D. FASTUOSA VAR.
+ALBA</c>
+<c>NEES</c>
+<c>C. B. CLARKE</c>
+<c>IRM</c>
+<c>WOODFORDIA FLORIBUNDA SALISB.</c>
+<c>W. FRUTICOSA KURZ</c>
+<c>W. TOMENTOSA BEDD.</c>
+<c>GRISLEA TOMENTOSA BUCH.</c>
+<c>HAM.</c>
+<c>LY-
+THRUM FRUTICOSUM LINN.</c>
+<c>CALYCOPTERIS FLORIBUNDA LAM.</c>
+<c>IRM</c>
+<c>C. NUTANS KURZ</c>
+<c>IRM</c>
+<c>ANOGEISSUS LATIFOLIA WALL.</c>
+<c>PHYLLANTHUS EMBLICA LINN.</c>
+<c>WOODFORDIA FLORIBUNDA SALISB.</c>
+<c>W. FRUTICOSA
+KURZ</c>
+<c>KB</c>
+<c>GRISLEA TOMENTOSA BUCH.</c>
+<c>HAM.</c>
+<c>CORIANDRUM SATIVUM LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>CEDRELA TOONA ROXB. EX ROTTL.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>TOONA CILIATA M. ROEM.</c>
+<c>IRM</c>
+<c>ERVATAMIA CORONARIA STAPF</c>
+<c>IRM</c>
+<c>KB</c>
+<c>ERVATAMIA DIVARICATA</c>
+<c>LINN.</c>
+<c>ALSTON</c>
+<c>IRM</c>
+<c>ERVATAMIA HEYNEANA COOKE</c>
+<c>TABERNAEMONTANA HEYNEANA
+WALL.</c>
+<c>DWH</c>
+<c>ERVATAMIA DIVARICATA BURKILL</c>
+<c>TABERNAEMONTANA CORO-
+NARIA WILLD.</c>
+<c>KB</c>
+<c>E. CORONARIA STAPF</c>
+<c>T.
+CORONARIA R. BR.</c>
+<c>IRM</c>
+<c>E. CORO-
+NARIA STAPF</c>
+<c>T. DIVARICATA R. BR. EX ROEM.
+ET SCHULT.</c>
+<c>NERIUM CORONARIUM JACQ.</c>
+<c>N. DIVARICATUM LINN.</c>
+<c>TABERNAEMONTANA DICHOTOMA ROXB.</c>
+<c>DWH</c>
+<c>THESPESIA POPULNEA</c>
+<c>LINN.</c>
+<c>SOLAND. EX CORREA</c>
+<c>TH. POPULNEOIDES KOSTEL.</c>
+<c>PW</c>
+<c>STEREOSPERMUM SUAVEOLENS DC.</c>
+<c>BIGNONIA SUAVEOLENS
+ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>FICUS BENGHALENSIS LINN.</c>
+<c>HS</c>
+<c>F. RETUSA LINN.</c>
+<c>PW</c>
+<c>PW</c>
+<c>F. BENJAMINA</c>
+<c>F. INDICA</c>
+<c>F. TSIELA ROXB.</c>
+<c>F. INDICA WILLD.</c>
+<c>F. BENJAMINA WALL.</c>
+<c>F. RETUSA LINN.</c>
+<c>F. INDICA HEYNE EX
+ROTH</c>
+<c>F. BENJAMINA WILLD.</c>
+<c>F. BENJAMINA LINN.</c>
+<c>F. BEN-
+GHALENSIS LINN.</c>
+<c>F. INDICA LINN.</c>
+<c>FICUS RELIGIOSA LINN.</c>
+<c>PW</c>
+<c>MESUA FERREA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>M. COROMANDELINA WIGHT</c>
+<c>KB</c>
+<c>M. PEDUNCULATA WIGHT</c>
+<c>KB</c>
+<c>M. ROX-
+BURGHII WIGHT</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>M. SPECIOSA CHOISY</c>
+<c>KB</c>
+<c>OCHROCARPUS LONGIFOLIUS BENTH. ET HOOK. F. EX T. ANDERS.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>CALOPHYLLUM INOPHYLLUM LINN.</c>
+<c>CINNAMOMUM CASSIA BLUME</c>
+<c>DWH</c>
+<c>C. INERS REINW. EX BLUME</c>
+<c>DWH</c>
+<c>C. ZEYLANICUM NEES</c>
+<c>LAURUS CASSIA LINN.</c>
+<c>ARTEMISIA VULGARIS LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>A. INDICA
+WILLD.</c>
+<c>CRINUM ASIATICUM LINN.</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. TOXICARIUM ROXB.</c>
+<c>KB</c>
+<c>ALPINIA NUTANS ROSC.</c>
+<c>MW</c>
+<c>A. SPECIOSA K. SCHUM.</c>
+<c>PUPALIA LAPPACEA MOQ.</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>CYPERUS SCARIOSUS R. BR.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>C. PERTENUIS ROXB.</c>
+<c>PIPER BETLE LINN.</c>
+<c>DWH</c>
+<c>MW</c>
+<c>PW</c>
+<c>CP</c>
+<c>CHAVICA BETLE MIQ.</c>
+<c>R.</c>
+<c>IV</c>
+<c>ZDMG</c>
+<c>MUSSAENDA FRONDOSA LINN.</c>
+<c>DWH</c>
+<c>M. FLAVESCENS BUCH.</c>
+<c>HAM.</c>
+<c>M. FRONDOSA</c>
+<c>V</c>
+<c>M. FRONDOSA LINN.</c>
+<c>M. PUBESCENS AIT.</c>
+<c>M. FRONDOSA
+LOUR.</c>
+<c>M. ROXBURGHII HOOK. F.</c>
+<c>M. FRONDOSA ROXB.</c>
+<c>M.
+FRONDOSA WALL.</c>
+<c>M. GLABRATA HUTCHINSON EX GAMBLE</c>
+<c>KB</c>
+<c>M. FRONDOSA VAR. GLABRATA HOOK.</c>
+<c>F.</c>
+<c>KB</c>
+<c>CITRUS MEDICA LINN.</c>
+<c>C. ACIDA PERS.</c>
+<c>MW</c>
+<c>C. MEDICA LINN. VAR. ACIDA</c>
+<c>KB</c>
+<c>CP</c>
+<c>C. LIMON</c>
+<c>LINN.</c>
+<c>BURM. F.</c>
+<c>C. MEDICA LINN. VAR. LIMONUM</c>
+<c>CP</c>
+<c>CITRUS AURANTIUM LINN.</c>
+<c>C. BERGAMIA RISSO</c>
+<c>KB</c>
+<c>C. AURANTIUM LINN. VAR. BERGAMIA</c>
+<c>KB</c>
+<c>H. W.</c>
+<c>JAOS</c>
+<c>VIGNA SINENSIS SAVI EX HASSK.</c>
+<c>DOLICHOS SINENSIS LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>D. CYLINDRICUS
+MOENCH.</c>
+<c>HK</c>
+<c>D. SINENSIS LINN.</c>
+<c>VIGNA
+CATIANG ENDL.</c>
+<c>VIGNA CATJANG WALP.</c>
+<c>KB</c>
+<c>DOLICHOS LABLAB LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>LABLAB VULGARIS SAVI</c>
+<c>CP</c>
+<c>PHASEOLUS MUNGO LINN.</c>
+<c>PH. RADIATUS LINN.</c>
+<c>INDIGOFERA TINCTORIA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>I. INDICA LAM.</c>
+<c>I. SUMATRANA GAERTN.</c>
+<c>PA</c>
+<c>I. ARRECTA</c>
+<c>I. ANIL LINN.</c>
+<c>I. ANIL</c>
+<c>I. ANIL LINN.</c>
+<c>I. PAUCIFOLIA DELILE</c>
+<c>I. ANIL
+SM. EX WIGHT ET ARN.</c>
+<c>I. PAUCIFOLIA DELILE</c>
+<c>KB</c>
+<c>V</c>
+<c>I. ARGENTEA LINN.</c>
+<c>I. CAERULEA ROXB.</c>
+<c>I. ARGENTEA</c>
+<c>I. ARGENTEA LINN.</c>
+<c>I. PAUCIFOLIA
+DELILE</c>
+<c>I. ARGENTEA ROXB.</c>
+<c>I. OBLONGIFOLIA FORSK.</c>
+<c>KB</c>
+<c>I. ANGUSTIFOLIA</c>
+<c>I. ANGUSTIFOLIA LINN.</c>
+<c>I. HIRSUTA LINN.</c>
+<c>I. ANGUSTIFOLIA BLANCO</c>
+<c>I. STRICTA LINN.</c>
+<c>I. ANGUSTIFOLIA CURT.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>ORYZA SATIVA LINN.</c>
+<c>KB</c>
+<c>HYGRORYZA ARISTATA NEES</c>
+<c>DWH</c>
+<c>KB</c>
+<c>SETARIA ITALICA BEAUV.</c>
+<c>PANICUM ITALICUM LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>TRICHOSANTHES DIOICA ROXB.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>V</c>
+<c>T. CUCUMERINA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>T. LACINIOSA KLEIN EX WILLD.</c>
+<c>PA</c>
+<c>T. LOBATA ROXB.</c>
+<c>PA</c>
+<c>T. PILOSA BUCH.</c>
+<c>HAM. EX WALL.</c>
+<c>PA</c>
+<c>T. CORDATA ROXB.</c>
+<c>PA</c>
+<c>T. PALMATA WALL.</c>
+<c>T. NERVIFOLIA LINN.</c>
+<c>KB</c>
+<c>T. BRACTEATA VOIGT</c>
+<c>PA</c>
+<c>T. PUBERA BLUME</c>
+<c>T. PALMATA ROXB.</c>
+<c>PA</c>
+<c>PA</c>
+<c>T. BRACTEATA VOIGT</c>
+<c>T. PALMATA
+ROXB.</c>
+<c>CINNAMOMUM TAMALA T. NEES ET EBERM.</c>
+<c>IRM</c>
+<c>C. TAMALA NEES</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. ALBIFLORUM NEES</c>
+<c>KB</c>
+<c>LAURUS CASSIA
+ROXB.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>C. INERS REINW. EX BLUME</c>
+<c>C. NITIDUM HOOK.</c>
+<c>C. EUCALYP-
+TOIDES NEES</c>
+<c>C. MACROCARPUM HOOK. F.</c>
+<c>C. ZEYLANICUM BLUME</c>
+<c>HB</c>
+<c>C. ZEYLANICUM BREYN</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. LIGNEUM LUKMANOFF</c>
+<c>C. LIGNEA</c>
+<c>GARCINIA XANTHOCHYMUS HOOK. F. EX T. ANDERS.</c>
+<c>XANTHO-
+CHYMUS PICTORIUS ROXB.</c>
+<c>MW</c>
+<c>EURYALE FEROX SALISB.</c>
+<c>KB</c>
+<c>ANNESLEA SPINOSA
+ANDR.</c>
+<c>KB</c>
+<c>SALVADORA PERSICA LINN.</c>
+<c>PW</c>
+<c>IRIS GERMANICA
+LINN.</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>W.</c>
+<c>F.</c>
+<c>R.</c>
+<c>III</c>
+<c>ZDMG</c>
+<c>PRUNUS PUDDUM ROXB. EX WALL.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>P. CERASOIDES D. DON</c>
+<c>KB</c>
+<c>V</c>
+<c>CERASUS PUDDUM WALL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ARTOCARPUS INTEGRIFOLIA LINN.</c>
+<c>F.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CP</c>
+<c>A. HETEROPHYLLA
+LAM.</c>
+<c>IRM</c>
+<c>A. INTEGRA</c>
+<c>THUNB.</c>
+<c>MERRILL</c>
+<c>IRM</c>
+<c>A. INTEGRA MERRILL</c>
+<c>RADERMACHIA INTEGRA
+THUNB.</c>
+<c>ANTIARIS TOXICARIA</c>
+<c>PERS.</c>
+<c>LESCH.</c>
+<c>A. TOXI-
+CARIA LESCH.</c>
+<c>IPO TOXICARIA PERS.</c>
+<c>GREWIA ASIATICA LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>G. ELASTICA ROYLE</c>
+<c>G. VESTITA WALL.</c>
+<c>G. ELAS-
+TICA VAR. G. VESTITA</c>
+<c>G. ASIATICA
+LINN. VAR. VESTITA WALL</c>
+<c>G. ABUTILISSIMA VENT.</c>
+<c>HK</c>
+<c>HK</c>
+<c>G. ASIATICA
+WALL.</c>
+<c>G. ABUTILIFOLIA VENT. EX JUSS.</c>
+<c>CARAPA MOLUCCENSIS LAM.</c>
+<c>XYLOCARPUS GRANATUM KOEN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>OCIMUM SANCTUM LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CEDRELA TOONA ROXB. EX ROTTL.</c>
+<c>MW</c>
+<c>OLDENLANDIA CORYMBOSA LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>O. BIFLORA ROXB.</c>
+<c>DWH</c>
+<c>O.
+HERBACEA DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>O. RAMOSA ROXB.</c>
+<c>KB</c>
+<c>HEDYOTIS
+BURMANNIANA R. BR.</c>
+<c>MW</c>
+<c>PW</c>
+<c>OLDENLANDIA BIFLORA LINN.</c>
+<c>O. UMBELLATA LINN.</c>
+<c>FUMARIA PARVIFLORA LAM.</c>
+<c>V</c>
+<c>F. PARVIFLORA LAM. VAR. PERSICA PUGSLEY</c>
+<c>KB</c>
+<c>F. INDICA PUGSLEY</c>
+<c>F. OFFICINALIS LINN.</c>
+<c>RUNGIA REPENS NEES</c>
+<c>KB</c>
+<c>R. PARVIFLORA NEES</c>
+<c>R. REPENS T. ANDERS.</c>
+<c>MOLLUGO PENTAPHYLLA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>M. STRICTA LINN.</c>
+<c>V</c>
+<c>M. CERVIANA SER.</c>
+<c>PHARNACEUM CERVIANA LINN.</c>
+<c>GLOSSOCARDIA LINEARIFOLIA CASS.</c>
+<c>G.
+BOSVALLIA DC.</c>
+<c>JUSTICIA PROCUMBENS LINN.</c>
+<c>POLYCARPAEA CORYMBOSA LAM.</c>
+<c>PODOPHYLLUM EMODI WALL.</c>
+<c>DWH</c>
+<c>BUTEA MONOSPERMA</c>
+<c>LAM.</c>
+<c>TAUB.</c>
+<c>B. MONO-
+SPERMA</c>
+<c>LAM.</c>
+<c>KUNTZE</c>
+<c>IRM</c>
+<c>B. MONO-
+SPERMA KUNTZE</c>
+<c>AFM</c>
+<c>KB</c>
+<c>B. MONO-
+SPERMA TAUB.</c>
+<c>B. MONOSPERMA</c>
+<c>V</c>
+<c>B. FRONDOSA ROXB.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HK</c>
+<c>B. FRONDOSA KOENIG EX ROXB.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>B. FRONDOSA ROXB. ET KOENIG</c>
+<c>B. FRONDOSA</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>BUTEA FRONDOSA ROXB. EX WILLD.</c>
+<c>ERYTHRINA MONOSPERMA LAM.</c>
+<c>AFM</c>
+<c>PLASO MONOSPERMA KUNTZE</c>
+<c>ERYTHRINA INDICA LAM.</c>
+<c>KB</c>
+<c>V</c>
+<c>CINNAMOMUM TAMALA T. NEES ET EBERM.</c>
+<c>C. TAMALA NEES</c>
+<c>KB</c>
+<c>CURCUMA ZEDOARIA ROSC.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>IPOMOEA DIGITATA LINN.</c>
+<c>I. PANICULATA R. BR.</c>
+<c>THESPESIA POPULNEA</c>
+<c>LINN.</c>
+<c>SOLAND. EX CORREA</c>
+<c>STEREOSPERMUM SUAVEOLENS DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>BIGNONIA SUAVEOLENS ROXB.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>SPATHODEA SUAVEOLENS
+BENTH. ET HOOK. F.</c>
+<c>STEREOSPERMUM TETRAGONUM DC.</c>
+<c>PA</c>
+<c>V</c>
+<c>S. CHELONOIDES DC.</c>
+<c>DWH</c>
+<c>S. CHELONOIDES C. B. CLARKE</c>
+<c>PA</c>
+<c>S. XYLOCARPUM BENTH. ET HOOK. F.</c>
+<c>PA</c>
+<c>BIGNONIA XYLOCARPA ROXB.</c>
+<c>PA</c>
+<c>SPATHODEA XYLO-
+CARPA T. ANDERS. EX BRAND.</c>
+<c>PA</c>
+<c>RADERMACHERA
+XYLOCARPA K. SCHUM.</c>
+<c>PA</c>
+<c>MW</c>
+<c>PW</c>
+<c>CISSAMPELOS PAREIRA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>C. HERNANDIFOLIA WALL.</c>
+<c>C. CAAPEBA ROXB.</c>
+<c>KB</c>
+<c>C. CAAPEBA LINN.</c>
+<c>C.
+TRIANDRA ROXB.</c>
+<c>KB</c>
+<c>C. TETRANDRA ROXB.</c>
+<c>C.
+CONVOLVULACEA WILLD.</c>
+<c>KB</c>
+<c>C. HERNANDI-
+FOLIA LINN.</c>
+<c>C. HERNANDIFOLIA</c>
+<c>STEPHANIA HERNANDIFOLIA WALP.</c>
+<c>HK</c>
+<c>KB</c>
+<c>S. DISCOLOR SPRENG.</c>
+<c>DWH</c>
+<c>CISSAMPELOS PAREIRA LINN.</c>
+<c>CISSAMPELOS HERNANDIFOLIA WILLD.</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. HEXANDRA ROXB.</c>
+<c>KB</c>
+<c>V</c>
+<c>CLYPEA DISCOLOR BLUME</c>
+<c>C. HERNANDIFOLIA WIGHT ET
+ARN.</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CYCLEA PELTATA HOOK. F. ET THOMS.</c>
+<c>THESPESIA POPULNEA</c>
+<c>LINN.</c>
+<c>SOLAND. EX CORREA</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>HIBISCUS POPULNEUS
+LINN.</c>
+<c>FICUS ARNOTTIANA MIQ.</c>
+<c>F. RUMPHII BLUME</c>
+<c>F. INFECTORIA ROXB.</c>
+<c>DIOSCOREA ALATA LINN.</c>
+<c>V</c>
+<c>D. GLOBOSA ROXB.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>D. ATROPURPUREA ROXB.</c>
+<c>D. PURPUREA ROXB.</c>
+<c>D. RUBELLA ROXB.</c>
+<c>CP</c>
+<c>D. ALATA LINN.</c>
+<c>D. ALATA LINN.</c>
+<c>IRM</c>
+<c>D. ALATA LINN. VAR. GLOBOSA PRAIN</c>
+<c>KB</c>
+<c>IPOMOEA BATATAS POIR.</c>
+<c>KB</c>
+<c>V</c>
+<c>CONVOLVULUS BATATAS LINN.</c>
+<c>BATATAS EDULIS CHOISY</c>
+<c>MW</c>
+<c>PW</c>
+<c>RANDIA ULIGINOSA DC.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>GARDENIA ULIGINOSA RETZ.</c>
+<c>KB</c>
+<c>POSOQUERIA ULIGINOSA</c>
+<c>WILLD.</c>
+<c>ROXB.</c>
+<c>KB</c>
+<c>TINOSPORA CORDIFOLIA MIERS</c>
+<c>COCCULUS CORDIFOLIUS DC.</c>
+<c>PW</c>
+<c>PIPER LONGUM LINN.</c>
+<c>SALVADORA PERSICA LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>S. INDICA WIGHT</c>
+<c>HK</c>
+<c>KB</c>
+<c>S. WIGHTIANA PLANCH.
+EX THW.</c>
+<c>S. OLEOIDES DECNE.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>S. PERSICA LINN.</c>
+<c>S. OLEOIDES DECNE.</c>
+<c>S. OLEOIDES DECNE.</c>
+<c>S. PERSICA LINN.</c>
+<c>S.
+PERSICA</c>
+<c>S. OLEOIDES</c>
+<c>CAREYA ARBOREA ROXB.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>BOERHAAVIA REPENS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>PA</c>
+<c>B. DIFFUSA LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>B. PROCUMBENS ROXB.</c>
+<c>KB</c>
+<c>PA</c>
+<c>B. ERECTA BANKS EX ROXB.</c>
+<c>HK</c>
+<c>B. PROCUMBENS</c>
+<c>B. PROCUMBENS ROXB.</c>
+<c>B. PROCUMBENS BANKS EX ROXB.</c>
+<c>B. ERECTA</c>
+<c>B. ERECTA ELL.</c>
+<c>B. REPENS LINN.</c>
+<c>B. ERECTA LINN.</c>
+<c>B. DIANDRA BURM. F.</c>
+<c>B. DIANDRA</c>
+<c>B. DIANDRA LINN.</c>
+<c>B. HIRSUTA LINN.</c>
+<c>B. DIANDRA BURM. F.</c>
+<c>B. VERTICILLATA POIR.</c>
+<c>B. REPANDA ROXB.</c>
+<c>B. REPANDA WILLD.</c>
+<c>PA</c>
+<c>B. ALATA</c>
+<c>B. ALATA S.
+WATS.</c>
+<c>B. PROCUMBENS BANKS EX ROXB.</c>
+<c>HK</c>
+<c>TRIANTHEMA PORTULACASTRUM LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>T. MONOGYNA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>T. OBCORDATA ROXB.</c>
+<c>PA</c>
+<c>T. PENTANDRA LINN.</c>
+<c>T. OBCORDATA WALL.</c>
+<c>T. DECANDRA LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>T. CRYSTALLINA VAHL</c>
+<c>CALOPHYLLUM INOPHYLLUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>C. TOMENTOSUM WIGHT</c>
+<c>C. WIGHTIANUM WALL.</c>
+<c>C. APETALUM WILLD.</c>
+<c>C. INOPHYLLUM</c>
+<c>OCHROCARPUS LONGIFOLIUS BENTH. ET HOOK. F. EX T. ANDERS.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>CALLITRIS INOPHYLLUM LINN.</c>
+<c>MALLOTUS PHILIPPINENSIS MUELL. ARG.</c>
+<c>KB</c>
+<c>ROTTLERA TINCTORIA ROXB.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MYRISTICA FRAGRANS HOUTT.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>ELETTARIA CARDAMOMUM MATON</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>AMOMUM SUBULATUM ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>NIGELLA SATIVA LINN.</c>
+<c>KB</c>
+<c>N. INDICA ROXB. EX FLEM.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CARUM CARVI LINN.</c>
+<c>BALANITES ROXBURGHII PLANCH.</c>
+<c>HK</c>
+<c>B. AEGYPTIACA</c>
+<c>LINN.</c>
+<c>DELILE</c>
+<c>HK</c>
+<c>GARDENIA GUMMIFERA LINN. F.</c>
+<c>HK</c>
+<c>CLEOME VISCOSA LINN.</c>
+<c>POLANISIA ICOSANDRA WIGHT
+ET ARN.</c>
+<c>CALOTROPIS GIGANTEA</c>
+<c>DRYAND. IN</c>
+<c>AIT.</c>
+<c>URARIA LAGOPOIDES DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>U. LAGOPODIOIDES MERR.</c>
+<c>PA</c>
+<c>DOODIA LAGOPODIOIDES
+ROXB.</c>
+<c>HK</c>
+<c>U. LAGOPUS DC.</c>
+<c>U. LAGOPODIOIDES WALL.</c>
+<c>HK</c>
+<c>U. LAGOPOIDES DC.</c>
+<c>U. LAGOPODIOIDES</c>
+<c>MW</c>
+<c>DOODIA LAGOPOIDES</c>
+<c>URARIA PICTA DESV.</c>
+<c>PA</c>
+<c>V</c>
+<c>DOODIA PICTA ROXB.</c>
+<c>HEDYSARUM PICTUM
+JACQ.</c>
+<c>DESMODIUM GANGETICUM DC.</c>
+<c>PA</c>
+<c>D. COLLI-
+NUM ROXB.</c>
+<c>PA</c>
+<c>HEDYSARUM COLLINUM ROXB.</c>
+<c>H.
+GANGETICUM LINN.</c>
+<c>DESMODIUM LATIFOLIUM DC.</c>
+<c>PA</c>
+<c>D. COLLINUM WALL.</c>
+<c>HEDYSARUM LATIFOLIUM ROXB.</c>
+<c>HEMIONITIS CORDIFOLIA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PAEDERIA FOETIDA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>APOCYNUM FOETIDUM BURM. F.</c>
+<c>DWH</c>
+<c>CONVOLVULUS FOETIDUS</c>
+<c>CONVOLVULUS ARVENSIS LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>IPOMOEA TRIDENTATA ROTH</c>
+<c>KB</c>
+<c>MERREMIA TRIDENTATA HALLIER. F.</c>
+<c>KB</c>
+<c>LEPTADENIA SPARTIUM WIGHT</c>
+<c>MIMOSA PUDICA LINN.</c>
+<c>KB</c>
+<c>SETARIA ITALICA BEAUV.</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>PANICUM ITALICUM LINN.</c>
+<c>AGLAIA ROXBURGHIANA MIQ.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>A. ODORATA LOUR.</c>
+<c>HK</c>
+<c>MW</c>
+<c>A. DIEPENHORSTII MIQ.</c>
+<c>A. ODORATISSIMA BLUME</c>
+<c>KB</c>
+<c>V</c>
+<c>A. ROXBURGHIANA HIERN</c>
+<c>KB</c>
+<c>MILUCA ROXBURGHIANA WIGHT ET ARN.</c>
+<c>KB</c>
+<c>PRUNUS MAHALEB LINN.</c>
+<c>V</c>
+<c>CALLICARPA MACROPHYLLA VAHL</c>
+<c>WOODFORDIA FLORIBUNDA SALISB.</c>
+<c>W. FRUTICOSA KURZ</c>
+<c>MIMOSA RUBICAULIS LAM.</c>
+<c>PIPER LONGUM LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>BRASSICA JUNCEA COSS.</c>
+<c>SINAPIS RAMOSA ROXB. EX FLEM.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PAPAVER DUBIUM LINN.</c>
+<c>FICUS INFECTORIA ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>F. LACOR BUCH.-
+HAM.</c>
+<c>KB</c>
+<c>F. TSJAKELA BURM. F.</c>
+<c>DWH</c>
+<c>F. TJAKELA MIQ.</c>
+<c>F. INFECTORIA WILLD.</c>
+<c>PW</c>
+<c>MW</c>
+<c>F. INFECTORIA</c>
+<c>F. ARNOTTIANA MIQ.</c>
+<c>KB</c>
+<c>F. TALBOTI KING</c>
+<c>PA</c>
+<c>F. TSIELA ROXB.</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>F. RETUSA LINN.</c>
+<c>PA</c>
+<c>F. RUMPHII BLUME</c>
+<c>F. RELIGIOSA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>THESPESIA POPULNEA</c>
+<c>LINN.</c>
+<c>SOLAND. EX CORREA</c>
+<c>TH. POPULNEOIDES WALL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>HIBISCUS POPULNEUS
+LINN.</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM
+MAJORANA LINN.</c>
+<c>HB</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>POGOSTEMON PARVIFLORUS BENTH.</c>
+<c>V</c>
+<c>PIPER NIGRUM LINN.</c>
+<c>HK</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>RUMEX VESICARIUS LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>TAMARINDUS INDICA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>HIBISCUS CANNABINUS LINN.</c>
+<c>KB</c>
+<c>GARCINIA INDICA CHOISY</c>
+<c>KB</c>
+<c>G. PURPUREA
+ROXB.</c>
+<c>KB</c>
+<c>MIMUSOPS ELENGI LINN.</c>
+<c>M. ELENGI</c>
+<c>M. ELENGI LINN.</c>
+<c>SIDEROXYLON TOMENTOSUM ROXB.</c>
+<c>M. ELENGI WIGHT</c>
+<c>LABRAMIA BOJERI A.</c>
+<c>DC.</c>
+<c>M. ELENGI SIEBER EX A.</c>
+<c>DC.</c>
+<c>ZIZYPHUS JUJUBA LAM.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>Z. SATIVA GAERTN.</c>
+<c>DWH</c>
+<c>V</c>
+<c>Z. VULGARIS LAM.</c>
+<c>Z. OENOPLIA MILL.</c>
+<c>Z. SCANDENS ROXB.</c>
+<c>Z. ROTUNDIFOLIA LAM.</c>
+<c>Z. NUMMULARIA WIGHT ET ARN.</c>
+<c>KB</c>
+<c>V</c>
+<c>Z. MICRO-
+PHYLLA ROXB.</c>
+<c>KB</c>
+<c>Z. LACCIFERA</c>
+<c>KB</c>
+<c>PW</c>
+<c>KB</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>KB</c>
+<c>O.
+PILOSUM LINN.</c>
+<c>O. PILOSUM WILLD.</c>
+<c>O. GRATISSIMUM LINN.</c>
+<c>DWH</c>
+<c>PW</c>
+<c>PW</c>
+<c>CLERODENDRUM SERRATUM SPRENG.</c>
+<c>KB</c>
+<c>C. SIPHONANTHUS</c>
+<c>R. BR. IN</c>
+<c>AIT.</c>
+<c>MW</c>
+<c>PW</c>
+<c>GYNANDROPSIS PENTAPHYLLA DC.</c>
+<c>CLEOME PENTAPHYLLA
+LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>CLEOME VISCOSA LINN.</c>
+<c>KB</c>
+<c>ACACIA ARABICA WILLD.</c>
+<c>MIMOSA ARABICA
+LAM.</c>
+<c>A. FERRUGINEA DC.</c>
+<c>A. LEUCOPHLOEA WILLD.</c>
+<c>KB</c>
+<c>PW</c>
+<c>MW</c>
+<c>MW</c>
+<c>PW</c>
+<c>EUPHORBIA
+ANTIQUORUM LINN.</c>
+<c>TITHYMALUS ANTIQUORUM MOENCH.</c>
+<c>PW</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>KB</c>
+<c>O. BASILICUM VAR. THYRSIFLORA BENTH.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ORTHOSIPHON GRANDIFLORUS BOLDINGH EX HEYNE</c>
+<c>PAVONIA ODORATA WILLD.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>HIBISCUS TORTUOSUS</c>
+<c>H. TILIACEUS LINN.</c>
+<c>H. TORTUOSUS ROXB.</c>
+<c>H. TORTUOSUS WALL. EX PRAIN</c>
+<c>ELETTARIA CARDAMOMUM MATON</c>
+<c>MW</c>
+<c>PW</c>
+<c>COCOS NUCIFERA LINN.</c>
+<c>BARLERIA CRISTATA LINN.</c>
+<c>B. PRIONITIS LINN.</c>
+<c>KB</c>
+<c>J. HUMILE LINN.</c>
+<c>J. BIGNONIACEUM WALL.</c>
+<c>J. OFFICINALE LINN.</c>
+<c>J. AURICULATUM VAHL</c>
+<c>A. VERA
+LINN.</c>
+<c>A. INDICA ROYLE</c>
+<c>COCCINIA INDICA WIGHT ET ARN.</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>C. CORDIFOLIA</c>
+<c>LINN.</c>
+<c>COGN.</c>
+<c>IRM</c>
+<c>C. CORDIFOLIA COGN.</c>
+<c>CEPHALANDRA INDICA NAUD.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>MOMORDICA MONADELPHA
+ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>BRYONIA CORDIFOLIA LINN.</c>
+<c>AEGLE MARMELOS</c>
+<c>LINN.</c>
+<c>CORREA</c>
+<c>CITRUS MEDICA LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>C. ACIDA PERS.</c>
+<c>C. LIMONUM RISSO</c>
+<c>C. MEDICA LINN. VAR. MEDICA</c>
+<c>KB</c>
+<c>CP</c>
+<c>C. MEDICA LINN. VAR. ACIDA</c>
+<c>KB</c>
+<c>C. ACIDA ROXB. VAR.</c>
+<c>DWH</c>
+<c>C. MEDICA LINN.</c>
+<c>C. ACIDA ROXB.</c>
+<c>PUNICA GRANATUM LINN.</c>
+<c>KB</c>
+<c>SOLANUM INDICUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>PW</c>
+<c>S. XANTHOCARPUM SCHRAD. ET WENDL.</c>
+<c>KB</c>
+<c>PA</c>
+<c>S. MELONGENA LINN.</c>
+<c>PA</c>
+<c>S. LONGUM ROXB.</c>
+<c>PA</c>
+<c>S. ESCU-
+LENTUM DUN.</c>
+<c>S. TORVUM SWARTZ</c>
+<c>PA</c>
+<c>S. MELONGENA LINN.</c>
+<c>S. INSANUM WILLD.</c>
+<c>PA</c>
+<c>S. MELONGENA LINN. VAR. INSANUM PRAIN</c>
+<c>PA</c>
+<c>S. ACULEATISSIMUM JACQ.</c>
+<c>PA</c>
+<c>S. XANTHOCARPUM</c>
+<c>CYPERUS ROTUNDUS LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. SCARIOSUS R. BR.</c>
+<c>C. PERTENUIS ROXB.</c>
+<c>HB</c>
+<c>C. TUBEROSUS ROTH</c>
+<c>C. ROTUNDUS LINN.</c>
+<c>C. TUBEROSUS ROXB.</c>
+<c>C. ESCULENTUS LINN.</c>
+<c>C. TUBEROSUS PURSH</c>
+<c>C. STOLONIFERUS RETZ.</c>
+<c>C. TUBEROSUS BOJ. HORT. MAURIT.</c>
+<c>C. TUBEROSUS ROTTB.</c>
+<c>MARISCUS MICROCEPHALUS J. ET C. PRESL</c>
+<c>C. TUBEROSUS
+WILLD. EX KUNTH.</c>
+<c>CROTON OBLONGIFOLIUS ROXB.</c>
+<c>KB</c>
+<c>V</c>
+<c>ANISOMELES MALABARICA R. BR. EX SIMS</c>
+<c>A. OVATA R. BR.</c>
+<c>A. DISTICHA HEYNE EX ROTH</c>
+<c>A. FRUTICOSA</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>NERIUM ODORUM RUBRO</c>
+<c>SIM-
+PLEX</c>
+<c>N. ODORUM</c>
+<c>N. ODORUM</c>
+<c>SOLAND. IN</c>
+<c>AIT.</c>
+<c>THEVETIA NEREIFOLIA
+JUSS. EX STEUD.</c>
+<c>PW</c>
+<c>CYMBOPOGON CITRATUS</c>
+<c>DC.</c>
+<c>STAPF</c>
+<c>C. CITRATUS
+STAPF</c>
+<c>IRM</c>
+<c>KB</c>
+<c>ANDROPOGON CITRATUS DC.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>CYMBOPOGON SCHOENANTHUS SPRENG.</c>
+<c>CP</c>
+<c>C. MARTINIANUS SCHULT.</c>
+<c>ANDROPOGON SCHOENAN-
+THUS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>A. IWARANCUSA
+BOISS.</c>
+<c>A. AROMATICUS SIEBER EX SCHULT.</c>
+<c>A. CALAMUS-
+SROMATICUS ROYLE</c>
+<c>A. PACHMODES TRIN.</c>
+<c>CYMBOPOGON IWARANCUSA SCHULT.</c>
+<c>CP</c>
+<c>ANDROPOGON IVARANCUSA ROXB.</c>
+<c>A. IWARANCUSA
+JONES</c>
+<c>CYMBOPOGON MARTINII</c>
+<c>ROXB.</c>
+<c>WATSON</c>
+<c>C. MARTINI STAPF</c>
+<c>ANDROPOGON MARTINI ROXB.</c>
+<c>CYMBOPOGON FLEXUOSUS STAPF</c>
+<c>ANDROPO-
+GON FLEXUOSUS NEES EX STEUD.</c>
+<c>A. NARDUS LINN.</c>
+<c>I</c>
+<c>PHASEOLUS ACONITIFOLIUS JACQ.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>LENS ESCULENTA MOENCH.</c>
+<c>ERVUM LENS LINN.</c>
+<c>CICER LENS WILLD.</c>
+<c>MW</c>
+<c>VICIA LENS COSS. ET GERM.</c>
+<c>AEGLE MARMELOS</c>
+<c>LINN.</c>
+<c>CORREA</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>FICUS RELIGIOSA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>F. HETEROPHYLLA LINN. F.</c>
+<c>MW</c>
+<c>PW</c>
+<c>COCOS NUCIFERA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>FERONIA ELEPHANTUM CORR.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CROCUS SATIVUS LINN.</c>
+<c>SAPINDUS TRIFOLIATUS LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>S. LAURIFOLIUS VAHL</c>
+<c>KB</c>
+<c>SAPINDUS MUKOROSSI GAERTN.</c>
+<c>V</c>
+<c>S.
+DETERGENS ROXB.</c>
+<c>DENDROBIUM MACRAEI LINDL.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>D. PLICATILE LINDL.</c>
+<c>DESMOTRICHUM FIMBRIATUM BL.</c>
+<c>KB</c>
+<c>KB</c>
+<c>DENDROBIUM MACRAEI LINDL.</c>
+<c>DESMOTRICHUM FIMBRIATUM
+BL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PENTAPTERA TOMENTOSA ROXB.</c>
+<c>TERMINALIA TOMENTOSA WIGHT ET ARN.</c>
+<c>PW</c>
+<c>PW</c>
+<c>CAESALPINIA SAPPAN LINN.</c>
+<c>RUBIA CORDIFOLIA LINN.</c>
+<c>R. MUNJISTA ROXB.</c>
+<c>HK</c>
+<c>R. SECUNDA MOON</c>
+<c>R. SIKKIMENSIS KURZ</c>
+<c>CP</c>
+<c>RANDIA DUMETORUM LAM.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>R. LONGISPINA DC.</c>
+<c>PA</c>
+<c>GARDENIA DUMETORUM RETZ.</c>
+<c>PA</c>
+<c>POSOQUERIA DUME-
+TORUM</c>
+<c>WILLD.</c>
+<c>WILLD. EX ROXB.</c>
+<c>HK</c>
+<c>PA</c>
+<c>ARTABOTRYS ODORATISSIMUS R. BR.</c>
+<c>PA</c>
+<c>A. HAMATUS BLUME</c>
+<c>PA</c>
+<c>UVARIA
+ODORATISSIMA ROXB.</c>
+<c>PA</c>
+<c>UNONA ODORATISSIMA STEUD.</c>
+<c>PA</c>
+<c>UNONA HAMATA BLUME</c>
+<c>PA</c>
+<c>VANGUERIA SPINOSA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PTEROSPERMUM SUBERIFOLIUM LAM.</c>
+<c>DATURA STRAMONIUM LINN.</c>
+<c>KB</c>
+<c>D. METEL LINN.</c>
+<c>D. FASTUOSA LINN.</c>
+<c>KB</c>
+<c>D. ALBA NEES</c>
+<c>KB</c>
+<c>ACACIA CATECHU WILLD.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MIMOSA CATECHU
+LINN. F.</c>
+<c>PHASEOLUS MUNGO LINN.</c>
+<c>PH. RADIATUS LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>MIMUSOPS ELENGI LINN.</c>
+<c>PW</c>
+<c>ALANGIUM DECAPETALUM LAM.</c>
+<c>A. HEXAPE-
+TALUM ROXB.</c>
+<c>PW</c>
+<c>A. LAMARCKII THW.</c>
+<c>KB</c>
+<c>HOLARRHENA ANTIDYSENTERICA WALL.</c>
+<c>MANGIFERA
+SYLVATICA ROXB.</c>
+<c>HK</c>
+<c>LUFFA ACUTANGULA ROXB.</c>
+<c>L. AEGYPTIACA MILL.</c>
+<c>L. PENTANDRA ROXB.</c>
+<c>PINUS ROXBURGHII SARG.</c>
+<c>P. LONGIFOLIA ROXB. EX LAMBERT</c>
+<c>JASMINUM MULTIFLORUM ANDR.</c>
+<c>ARTEMISIA VULGARIS LINN.</c>
+<c>A. INDICA WILLD.</c>
+<c>A. SCOPARIA WALDST. ET KIT.</c>
+<c>A. SIVERSIANA EHRH. EX WILLD.</c>
+<c>KB</c>
+<c>GLYCYRRHIZA GLABRA LINN.</c>
+<c>G. GLANDULIFERA WALDST.
+ET KIT.</c>
+<c>G. GLABRA LINN. VAR. GLANDULIFERA</c>
+<c>KB</c>
+<c>CYNOMETRA RAMIFLORA LINN.</c>
+<c>C. MIMOSOIDES WALL.</c>
+<c>KB</c>
+<c>V</c>
+<c>C. RAMIFLORA LINN. VAR. MIMOSIOIDES
+BAKER</c>
+<c>KB</c>
+<c>C. R. LINN. VAR.
+MIMOSOIDES WALL.</c>
+<c>MADHUCA LATIFOLIA MACBRIDE</c>
+<c>BASSIA LATIFOLIA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>SARACA INDICA LINN.</c>
+<c>JONESIA ASOCA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PW</c>
+<c>TERMINALIA TOMENTOSA WIGHT ET ARN.</c>
+<c>VITIS VINIFERA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>GMELINA ARBOREA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>GLYCYRRHIZA GLABRA LINN.</c>
+<c>EUPHORBIA HYPERICIFOLIA LINN.</c>
+<c>OXYSTELMA ESCULENTUM R. BR.</c>
+<c>BORASSUS FLABELLIFER LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>ANE-
+THUM SOWA KURZ.</c>
+<c>MADHUCA INDICA J. F. GMEL.</c>
+<c>M. LATIFOLIA</c>
+<c>ROXB.</c>
+<c>MACBRIDE</c>
+<c>MADHUCA LATIFOLIA MACBRIDE</c>
+<c>BASSIA LATIFOLIA ROXB.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>MADHUCA LONGIFOLIA</c>
+<c>LINN.</c>
+<c>MACBRIDE</c>
+<c>M. LONGI-
+FOLIA MACBRIDE</c>
+<c>BASSIA LONGIFOLIA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>DIPLOKNEMA BUTYRACEA H. J. LAM</c>
+<c>IRM</c>
+<c>MADHU-
+CA BUTYRACEA MACBRIDE</c>
+<c>IRM</c>
+<c>BASSIA BUTYRACEA
+ROXB.</c>
+<c>DWH</c>
+<c>GLYCYRRHIZA GLABRA LINN</c>
+<c>MW</c>
+<c>PW</c>
+<c>CLEMATIS TRILOBA HEYNE EX ROTH</c>
+<c>KB</c>
+<c>GLYCYRRHIZA GLABRA LINN.</c>
+<c>PIPER NIGRUM LINN.</c>
+<c>P. NIGRUM LINN. VAR. TRIOICUM CAV.</c>
+<c>PA</c>
+<c>P. NIGRUM VAR. TRIOICUM C.
+DC.</c>
+<c>P. TRIOICUM ROXB.</c>
+<c>DWH</c>
+<c>PA</c>
+<c>P. MALABARENSE C. DC.</c>
+<c>PA</c>
+<c>P. BACCATUM C. DC.</c>
+<c>PA</c>
+<c>MULDERA MULTINER-
+VIS MIQ.</c>
+<c>PA</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM
+MAJORANA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>STRYCHNOS POTATORUM LINN. F.</c>
+<c>MW</c>
+<c>CAPSICUM FRUTESCENS LINN.</c>
+<c>KB</c>
+<c>C. MINIMUM WILLD.</c>
+<c>KB</c>
+<c>CAPSICUM</c>
+<c>C. MINIMUM ROXB.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>STRYCHNOS POTATORUM LINN. F.</c>
+<c>MW</c>
+<c>MAJORANA HORTENSIS MOENCH.</c>
+<c>ORIGANUM MAJORANA LINN.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>V</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>O. CARYOPHYLLATUM ROXB.</c>
+<c>HS</c>
+<c>O. MINIMUM LINN.</c>
+<c>VANGUERIA SPINOSA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>CLERODENDRUM PHLOMOIDES LINN. F.</c>
+<c>MW</c>
+<c>PW</c>
+<c>RANDIA DUMETORUM LAM.</c>
+<c>KB</c>
+<c>PW</c>
+<c>LENS ESCULENTA MOENCH.</c>
+<c>L. CULINARIS MEDIC.</c>
+<c>ERVUM LENS LINN.</c>
+<c>CICER LENS WILLD.</c>
+<c>CITRUS
+DECUMANA MURR.</c>
+<c>KB</c>
+<c>CITRUS MEDICA LINN. VAR. LIMONUM</c>
+<c>PHASEOLUS MUNGO LINN.</c>
+<c>PH. MUNGO LINN. VAR. RADIATUS
+LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>PH.
+RADIATUS LINN.</c>
+<c>KB</c>
+<c>PH.
+RADIATUS ROXB.</c>
+<c>PW</c>
+<c>PH. RADIATUS WILLD.</c>
+<c>PH. RADIATUS</c>
+<c>MW</c>
+<c>V</c>
+<c>PH. ROXBURGHII WIGHT ET ARN.</c>
+<c>HK</c>
+<c>SACCHARUM ARUNDINACEUM RETZ.</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>S. CILIARE ANDERSS.</c>
+<c>KB</c>
+<c>S.
+MUNJA ROXB.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>S.
+MOONJA ROYLE</c>
+<c>S.</c>
+<c>A. RETZ</c>
+<c>S. M. ROXB.</c>
+<c>KB</c>
+<c>S. SARA ROXB.</c>
+<c>MW</c>
+<c>PHASEOLUS MUNGO LINN.</c>
+<c>PH.
+MUNGO WILLD.</c>
+<c>PH. RADIATUS LINN.</c>
+<c>PH.
+MUNGO LINN. VAR. ROXBURGHII PRAIN</c>
+<c>KB</c>
+<c>CYPERUS ROTUNDUS LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>CP</c>
+<c>C. HEXASTACHYOS
+ROTTB.</c>
+<c>C. HEXASTYCHOS LINN.</c>
+<c>C. SCARIOSUS R. BR.</c>
+<c>C. PERTENUIS ROXB.</c>
+<c>C. JUNCIFOLIUS ROTTL.</c>
+<c>KYLLINGA MONOCEPHALA ROTTB.</c>
+<c>KB</c>
+<c>SANSEVIERIA ROXBURGHIANA SCHULT.</c>
+<c>F.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>S. ZEYLANICA ROXB.</c>
+<c>S. ZEYLANICA WILLD.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>PA</c>
+<c>S. ZEYLANICA THUNB.</c>
+<c>CLEMATIS TRILOBA HEYNE EX ROTH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PA</c>
+<c>CLEMATIS GOURIANA ROXB.</c>
+<c>CHONEMORPHA MACROPHYLLA G. DON</c>
+<c>PA</c>
+<c>MARSDENIA TENACISSIMA WIGHT ET ARN.</c>
+<c>BAUHINIA VAHLII WIGHT ET ARN.</c>
+<c>MAERUA OVALIFOLIA CAMBESS.</c>
+<c>M. ARENARIA HOOK. F. ET
+THOMS.</c>
+<c>HELICTERES ISORA LINN.</c>
+<c>RAPHANUS SATIVUS LINN.</c>
+<c>CORCHORUS CAPSULARIS LINN.</c>
+<c>PW</c>
+<c>DIOSCOREA</c>
+<c>MW</c>
+<c>VITIS VINIFERA LINN.</c>
+<c>GYMNEMA SYLVESTRE R. BR.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>V</c>
+<c>ASCLEPIAS GEMINATA ROXB.</c>
+<c>HB</c>
+<c>HK</c>
+<c>LANNEA GRANDIS ENGL.</c>
+<c>KB</c>
+<c>ODINA WODIER ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>O. PINNATA ROTTL.</c>
+<c>HK</c>
+<c>O. PENNATA
+LINN.</c>
+<c>PW</c>
+<c>O. PINNATA</c>
+<c>MW</c>
+<c>RHUS ODINA BUCH.</c>
+<c>HAM. EX
+WALL.</c>
+<c>HABERLIA GRANDIS DENNST.</c>
+<c>KB</c>
+<c>CALENUM GRANDE O. KUNTZE</c>
+<c>KB</c>
+<c>CALESIUM GRANDE KUNTZE</c>
+<c>HELICTERES ISORA LINN.</c>
+<c>DWH</c>
+<c>RHUS SUCCEDANEA LINN.</c>
+<c>RH.
+ACUMINATA DC.</c>
+<c>PISTACIA KHINJUK STOCKS</c>
+<c>P. INTEGERRIMA STEW. EX
+BRANDIS</c>
+<c>ALANGIUM DECAPETALUM LAM.</c>
+<c>A. HEXAPETA-
+LUM ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>J. J.</c>
+<c>HK</c>
+<c>KB</c>
+<c>KB</c>
+<c>CLEMATIS TRILOBA HEYNE EX ROTH</c>
+<c>MW</c>
+<c>PW</c>
+<c>SACCHARUM OFFICINARUM LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ACACIA CATECHU WILLD.</c>
+<c>CEDRUS LIBANI BARREL</c>
+<c>C. DEODARA LOUD.</c>
+<c>A.</c>
+<c>DWH</c>
+<c>MW</c>
+<c>PW</c>
+<c>HELIOTROPIUM INDICUM LINN.</c>
+<c>J. J.</c>
+<c>HELIANTHUS ANNUUS LINN.</c>
+<c>H. INDICUS LINN.</c>
+<c>ALANGIUM DECAPETALUM LAM.</c>
+<c>A. HEXAPETA-
+LUM ROXB.</c>
+<c>HORDEUM VULGARE LINN.</c>
+<c>H. SATIVUM PERS.</c>
+<c>H. HEXASTI-
+CHON LINN.</c>
+<c>H. DISTICHON LINN.</c>
+<c>A.</c>
+<c>TRACHYSPERMUM COPTICUM</c>
+<c>LINN.</c>
+<c>LINK</c>
+<c>CA-
+RUM COPTICUM BENTH. ET HOOK.</c>
+<c>F.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>C. AJOWAN BENTH. ET HOOK. F.</c>
+<c>PTYCHO-
+TIS AJOWAN DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>LIGUSTICUM AJOWAN ROXB.</c>
+<c>HK</c>
+<c>L. AJAWAIN ROXB. EX FLEM.</c>
+<c>L. AJOWAN ROYLE</c>
+<c>AMMI COPTICUM LINN.</c>
+<c>TRACHYSPERMUM INVOLUCRATUM H. WOLFF</c>
+<c>CARUM ROX-
+BURGHIANUM BENTH. ET HOOK. F.</c>
+<c>APIUM INVOLUCRATUM
+ROXB. EX FLEM.</c>
+<c>CARUM PETROSELINUM BENTH. ET HOOK.</c>
+<c>F.</c>
+<c>HYOSCYAMUS NIGER LINN.</c>
+<c>KB</c>
+<c>DWH</c>
+<c>MW</c>
+<c>V</c>
+<c>H. ALBUS LINN.</c>
+<c>H. RETICULATUS LINN.</c>
+<c>DWH</c>
+<c>H. RETI-
+CULARIS</c>
+<c>H. MUTICUS LINN.</c>
+<c>DWH</c>
+<c>SORGHUM VULGARE</c>
+<c>LINN.</c>
+<c>PERS. VAR. SACCHARATUM BOERL.</c>
+<c>S. VULGARE PERS.</c>
+<c>AB</c>
+<c>DWH</c>
+<c>KB</c>
+<c>CP</c>
+<c>ANDROPOGON SORGHUM BROT.</c>
+<c>KB</c>
+<c>A. BICOLOR ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ZEA MAYS LINN.</c>
+<c>KB</c>
+<c>ALHAGI CAMELORUM FISCH.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>A. PSEUDALHAGI</c>
+<c>BIEB.</c>
+<c>DESV.</c>
+<c>A. PSEUDALHAGI DESV.</c>
+<c>A. MAURORUM DESV.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>A.
+MAURORUM BAKER</c>
+<c>KB</c>
+<c>PA</c>
+<c>A. MAURORUM TOURNEF.</c>
+<c>PW</c>
+<c>A.
+MAURORUM</c>
+<c>MW</c>
+<c>V</c>
+<c>HEDYSARUM ALHAGI LINN.</c>
+<c>HK</c>
+<c>PA</c>
+<c>H. ALHAGI</c>
+<c>H. ALHAGI WILLD.</c>
+<c>H. MAURORUM DC.</c>
+<c>HEDYSARUM ALHAGI</c>
+<c>H. ALHAGI LINN.</c>
+<c>A. MAURORUM DESV.</c>
+<c>H. ALHAGI LERCH.</c>
+<c>A. CAMELORUM FISCH.</c>
+<c>H. ALAHAGI FORSK.</c>
+<c>A. CAMELORUM FISCH.</c>
+<c>H. ALHAGI SIBTH. ET SM.</c>
+<c>A. GRAECORUM BOISS.</c>
+<c>FAGONIA CRETICA LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>F. BRUGUIERI DC.</c>
+<c>KB</c>
+<c>F. MYSO-
+RENSIS HEYNE EX ROTH</c>
+<c>KB</c>
+<c>PA</c>
+<c>F. CRETICA LINN. VAR. ARABICA LINN.</c>
+<c>PA</c>
+<c>F. CRETICA VAR. ARABICA T. ANDERS.</c>
+<c>KB</c>
+<c>TRAGIA INVOLUCRATA LINN.</c>
+<c>KB</c>
+<c>PA</c>
+<c>T. HISPIDA WILLD.</c>
+<c>PA</c>
+<c>T. BICOLOR MIQ.</c>
+<c>PA</c>
+<c>T. MIQUELIANA MUELL.
+ARG.</c>
+<c>T. MIQUELIANA VAR. BICOLOR</c>
+<c>PA</c>
+<c>GOSSYPIUM HERBACEUM LINN.</c>
+<c>MANILKARA HEXANDRA DUBARD</c>
+<c>MIMUSOPS HEXANDRA ROXB.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PW</c>
+<c>MIMUSOPS INDICA
+A. DC.</c>
+<c>HK</c>
+<c>M. KAUKI WALL.</c>
+<c>MANILKARA KAUKI</c>
+<c>LINN.</c>
+<c>DUBARD</c>
+<c>MIMUSOPS
+KAUKI LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ALSTONIA VENENATA R. BR.</c>
+<c>BUTEA MONOSPERMA KUNTZE</c>
+<c>B. FRONDOSA ROXB.</c>
+<c>MW</c>
+<c>PW</c>
+<c>BUCHANANIA LATIFOLIA ROXB.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>B. LANZAN SPRENG.</c>
+<c>KB</c>
+<c>B. LATIFOLIA</c>
+<c>HK</c>
+<c>KB</c>
+<c>BARRINGTONIA RACEMOSA
+ROXB.</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>MANILKARA.</c>
+<c>BRASSICA JUNCEA COSS.</c>
+<c>B. JUNCEA HOOK. F.
+ET THOMS.</c>
+<c>HK</c>
+<c>KB</c>
+<c>B. JUNCEA</c>
+<c>DWH</c>
+<c>V</c>
+<c>B. JUNCEA HOOK.</c>
+<c>F.
+ET THOMS. SUBSP. B. RUGOSA VAR.</c>
+<c>AGRESTIS</c>
+<c>VAR.</c>
+<c>CUNEIFOLIA
+PRAIN</c>
+<c>KB</c>
+<c>CP</c>
+<c>SINAPIS JUNCEA
+LINN.</c>
+<c>S. RAMOSA ROXB. EX FLEM.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>S. CHINENSIS
+LINN.</c>
+<c>S. CHINENSIS LINN. VAR. INTEGRIFOLIA
+STOCKS</c>
+<c>KB</c>
+<c>S. CUNEIFOLIA ROXB.</c>
+<c>KB</c>
+<c>S. RUGOSA ROXB.</c>
+<c>BRASSICA INTEGRIFOLIA</c>
+<c>WEST</c>
+<c>O. E. SCHULZ</c>
+<c>KB</c>
+<c>B. JUNCEA HOOK. F. ET THOMS.</c>
+<c>B. INTEGRIFOLIA O. E SCHULZ</c>
+<c>B. INTEGRIFOLIA</c>
+<c>V</c>
+<c>B. NIGRA KOCH</c>
+<c>KB</c>
+<c>SINAPIS NIGRA LINN.</c>
+<c>KB</c>
+<c>BRASSICA CAMPESTRIS LINN. VAR. RAPA</c>
+<c>LINN.</c>
+<c>HARTM.</c>
+<c>KB</c>
+<c>B. CAMPESTRIS LINN.</c>
+<c>B. RAPA
+LINN.</c>
+<c>KB</c>
+<c>ERUCA SATIVA MILLER</c>
+<c>V</c>
+<c>ELEUSINE CORACANA GAERTN.</c>
+<c>AB</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>CP</c>
+<c>CYNOSURUS CORACANUS LINN.</c>
+<c>ELEUSINE INDICA GAERTN.</c>
+<c>ELEUSINE AEGYPTIACA DESF.</c>
+<c>DACTYLOCTENIUM AEGYPTIUM
+BEAUV.</c>
+<c>V</c>
+<c>FICUS HISPIDA LINN. F.</c>
+<c>D.</c>
+<c>A</c>
+<c>CP</c>
+<c>ELAEOCARPUS GANITRUS ROXB.</c>
+<c>E. TUBERCULATUS ROXB.</c>
+<c>PICRORRHIZA KURROA ROYLE EX BENTH.</c>
+<c>HB</c>
+<c>PW</c>
+<c>HELLEBORUS NIGER LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>TERMINALIA CHEBULA RETZ.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>PW</c>
+<c>MYRICA NAGI THUNB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>SOYMIDA FEBRIFUGA JUSS.</c>
+<c>KB</c>
+<c>V</c>
+<c>SWIETENIA FEBRIFUGA ROXB.</c>
+<c>KB</c>
+<c>S. RUBRA WIGHT EX WALL.</c>
+<c>AMOORA ROHITUKA WIGHT ET ARN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>A. POLYSTACHYA WIGHT ET ARN.</c>
+<c>A. POLYSTACHYA HOOK. F. ET
+JACKS.</c>
+<c>KB</c>
+<c>APHANAMIXIS ROHITUKA PIERRE</c>
+<c>APH.
+POLYSTACHYA BLATTER</c>
+<c>KB</c>
+<c>APH. POLY</c>
+<c>TACHYA</c>
+<c>WALL.</c>
+<c>R. N. PARKER</c>
+<c>IRM</c>
+<c>AGLAIA POLYSTACHYA</c>
+<c>KB</c>
+<c>ANDERSONIA ROHITUKA ROXB.</c>
+<c>KB</c>
+<c>LORANTHUS LONGIFLORUS DESR.</c>
+<c>V</c>
+<c>DENDRO-
+PHTHOE</c>
+<c>FALCATA BLUME</c>
+<c>TECOMA UNDULATA G. DON</c>
+<c>KB</c>
+<c>TECOMELLA UNDULATA SEEM.</c>
+<c>RUBIA CORDIFOLIA LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>GMELINA ARBOREA ROXB.</c>
+<c>G. ARBOREA LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ACACIA ARABICA WILLD.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ARTOCARPUS LAKOOCHA ROXB.</c>
+<c>SYZYGIUM AROMATICUM</c>
+<c>LINN.</c>
+<c>MERRILL ET PERRY</c>
+<c>EUGENIA CARYOPHYLLATA THUNB.</c>
+<c>CP</c>
+<c>E. CARYOPHYLLATA WILLD.</c>
+<c>E. CARYOPHYLLATA LINN.</c>
+<c>E. CARYOPHYLLATA</c>
+<c>E. AROMATICA
+KUNTZE</c>
+<c>E. AROMATICA BAILL.</c>
+<c>CARYO-
+PHYLLUS AROMATICUS LINN.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>EUGENIA CARYOPHYLLUS</c>
+<c>SPRENG.</c>
+<c>BULLOCK ET S. G. HARRISON</c>
+<c>E. CARYOPHYLLAEA WIGHT</c>
+<c>MYRTUS CARYOPHYLLUS SPRENG.</c>
+<c>ALLIUM SATIVUM LINN.</c>
+<c>R.</c>
+<c>P. K.</c>
+<c>J.</c>
+<c>R.</c>
+<c>SYMPLOCOS RACEMOSA ROXB.</c>
+<c>S. THEIFOLIA</c>
+<c>S. THEIFOLIA HAYATA</c>
+<c>S. ADINANDRIFOLIA VAR. THEIFOLIA
+HAYATA</c>
+<c>S. THEAEFOLIA D. DON</c>
+<c>S. CRATAEGOIDES BUCH.</c>
+<c>HAM. EX D. DON</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>S. PANICULATA WALL. EX D. DON</c>
+<c>S. SPICATA ROXB.</c>
+<c>PA</c>
+<c>DESMODIUM PULCHELLUM BENTH.</c>
+<c>PA</c>
+<c>HEDY-
+SARUM PULCHELLUM LINN.</c>
+<c>PA</c>
+<c>DICERMA PULCHELLUM
+DC.</c>
+<c>PA</c>
+<c>R. N.</c>
+<c>BAMBUSA BAMBOS DRUCE</c>
+<c>B. ARUNDINACEA WILLD.</c>
+<c>IRM</c>
+<c>B. ARUNDINACEA
+RETZ.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>B. ARUNDINACEA</c>
+<c>ARUNDO
+BAMBOS LINN.</c>
+<c>B. ARUNDINACEA</c>
+<c>B. ORIENTALIS NEES</c>
+<c>B. ARUNDINACEA WIGHT EX STEUD.</c>
+<c>B. VULGARIS SCHRAD.</c>
+<c>B. ARUNDINACEA AIT.</c>
+<c>B. SPINOSA</c>
+<c>APUS</c>
+<c>ORIENTALIS</c>
+<c>B. APUS</c>
+<c>B. ORIENTALIS</c>
+<c>B.
+BAMBOS DRUCE</c>
+<c>B. SPINOSA</c>
+<c>B. BAMBOS
+DRUCE</c>
+<c>B. BAMBOS DRUCE</c>
+<c>B. SPINOSA NEES</c>
+<c>B. SPINOSA BUCH.-
+HAM.</c>
+<c>B. SPINOSA ROXB.</c>
+<c>B. SPINOSA ROXB.</c>
+<c>B. APUS SCHULT. F.</c>
+<c>B. ORIENTALIS NEES</c>
+<c>DENDROCALAMUS STRICTUS NEES</c>
+<c>IRM</c>
+<c>KB</c>
+<c>V</c>
+<c>SACCHARUM OFFICINARUM LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>SHOREA ROBUSTA GAERTN.</c>
+<c>F.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>FICUS BENGHALENSIS LINN.</c>
+<c>F. INDICA LINN.</c>
+<c>F. INDICA ROXB.</c>
+<c>HK</c>
+<c>F. INDICA</c>
+<c>MW</c>
+<c>PW</c>
+<c>UROSTIGMA BENGALENSE GASP.</c>
+<c>KB</c>
+<c>HIBISCUS VITIFOLIUS LINN.</c>
+<c>H. TRUNCATUS ROXB.</c>
+<c>THESPESIA MACROPHYLLA BLUME</c>
+<c>TH. LAMPAS DALZ. ET GIBS.</c>
+<c>HIBISCUS LAMPAS CAV.</c>
+<c>GOSSYPIUM NIGRUM BUCH.</c>
+<c>HAM.</c>
+<c>G. BARBADENSE LINN.</c>
+<c>G. ARBOREUM LINN.</c>
+<c>OCIMUM GRATISSIMUM LINN.</c>
+<c>KB</c>
+<c>O. BASILICUM LINN.</c>
+<c>O. PILOSUM WILLD.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PHASEOLUS TRILOBUS AIT.</c>
+<c>KB</c>
+<c>PH. ACONITIFOLIUS JACQ.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PH. TRILOBUS WALL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PH. TRILOBUS.</c>
+<c>PH. ADENANTHUS G. F. W. MEYER</c>
+<c>KB</c>
+<c>PH. ROSTRATUS WALL.</c>
+<c>KB</c>
+<c>SESELI INDICUM WIGHT ET ARN.</c>
+<c>KB</c>
+<c>V</c>
+<c>CNIDIUM DIFFU-
+SUM DC.</c>
+<c>MW</c>
+<c>LIGUSTICUM DIFFUSUM ROXB. EX SM.</c>
+<c>KB</c>
+<c>TACCA INTEGRIFOLIA KER</c>
+<c>GAWL</c>
+<c>T. ASPERA ROXB.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>DIOSOREA BULBIFERA LINN.</c>
+<c>KB</c>
+<c>D. SATIVA THUNB.</c>
+<c>KB</c>
+<c>DIOSCOREA</c>
+<c>MW</c>
+<c>PW</c>
+<c>IPOMOEA DIGITATA
+LINN.</c>
+<c>I. PANICULATA R. BR.</c>
+<c>GMELINA ASIATICA LINN.</c>
+<c>ROUREA
+SANTALOIDES WIGHT ET ARN.</c>
+<c>MIMOSA PUDICA LINN.</c>
+<c>EMBELIA RIBES BURM. F.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>E. GLANDULIFERA WIGHT</c>
+<c>HK</c>
+<c>E. TSJERIAM</c>
+<c>COTTAM A. DC.</c>
+<c>E. ROBUSTA C. B. CLARKE</c>
+<c>NON ROXB.</c>
+<c>E. ROBUSTA ROXB.</c>
+<c>J. J.</c>
+<c>J. J.</c>
+<c>BAUHINIA VARIEGATA</c>
+<c>BAUHINIA VARIEGATA LINN.</c>
+<c>MW</c>
+<c>B. PURPUREA LINN.</c>
+<c>PUNICA GRANATUM LINN.</c>
+<c>IPOMOEA TURPETHUM R. BR.</c>
+<c>MW</c>
+<c>EUPHORBIA NERIFOLIA LINN.</c>
+<c>PUNICA GRANATUM LINN.</c>
+<c>MW</c>
+<c>PUNICA GRANATUM LINN.</c>
+<c>TERMINALIA BELLERICA ROXB.</c>
+<c>T. BELIRICA WALL.</c>
+<c>T. PUNC-
+TATA ROTH</c>
+<c>MYROBALANUS BELLIRICA GAERTN.</c>
+<c>J. J.</c>
+<c>J. J.</c>
+<c>EMBELIA RIBES</c>
+<c>STEREOSPERMUM SUAVEOLENS DC.</c>
+<c>BIGNONIA
+SUAVEOLENS ROXB.</c>
+<c>MW</c>
+<c>TERMINALIA CHEBULA RETZ.</c>
+<c>DWH</c>
+<c>T. CITRINA ROXB. EX FLEM.</c>
+<c>MW</c>
+<c>ERYCIBE PANICULATA ROXB.</c>
+<c>MW</c>
+<c>EMBELIA RIBES BURM.</c>
+<c>F.</c>
+<c>PHYLLANTHUS EMBLICA LINN.</c>
+<c>SPONDIAS PINNATA KURZ</c>
+<c>S. MANGIFERA WILLD.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>GARCINIA INDICA CHOISY</c>
+<c>KB</c>
+<c>G. PURPUREA ROXB.</c>
+<c>KB</c>
+<c>G. PEDUNCULATA ROXB.</c>
+<c>G. DON</c>
+<c>G. XANTHOCHYMUS HOOK. F. EX T. ANDERS.</c>
+<c>TAMARINDUS INDICA LINN.</c>
+<c>MW</c>
+<c>OXALIS CORNICULATA LINN.</c>
+<c>RHUS PARVIFLORA ROXB.</c>
+<c>ANISOMELES MALABARICA R. BR. EX SIMS</c>
+<c>KB</c>
+<c>V</c>
+<c>MW</c>
+<c>HK</c>
+<c>ACACIA SUNDRA DC.</c>
+<c>A. SUMA BUCH.</c>
+<c>HAM. EX WALL.</c>
+<c>KB</c>
+<c>MIMOSA SUMA ROXB.</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>A. SUMA KURZ EX BRANDIS</c>
+<c>HK</c>
+<c>M. SUMA ROXB.</c>
+<c>A. SUNDRA ROXB.</c>
+<c>A. SUMA</c>
+<c>PROSOPIS SPICIGERA LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>VERNONIA ANTHELMINTICA WILLD.</c>
+<c>DESMODIUM GANGETICUM DC.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>IRM</c>
+<c>MW</c>
+<c>PW</c>
+<c>V</c>
+<c>HEDYSARUM GANGETICUM
+LINN.</c>
+<c>HK</c>
+<c>PW</c>
+<c>BOMBAX CEIBA LINN.</c>
+<c>KB</c>
+<c>I</c>
+<c>B. CEIBA LINN.</c>
+<c>BOM-
+BAX MALABARICUM DC.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>V</c>
+<c>B. HEPTA-
+PHYLLUM CAV.</c>
+<c>HK</c>
+<c>MW</c>
+<c>B. HEPTA-
+PHYLLUM ROXB.</c>
+<c>KB</c>
+<c>SALMALIA MALABARICA SCHOTT
+ET ENDL.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>GOSSAMPINUS MALABARICA
+MERRILL</c>
+<c>A.</c>
+<c>A.</c>
+<c>CEIBA PENTANDRA GAERTN.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>BOMBAX PENTANDRUM LINN.</c>
+<c>KB</c>
+<c>ERIODENDRON ANFRACTUOSUM
+DC.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>E. PENTANDRUM KURZ</c>
+<c>KB</c>
+<c>GOSSAMPINUS RUMPHII SCHOTT ET ENDL.</c>
+<c>MORINGA PTERYGOSPERMA GAERTN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>M. OLEIFERA LAM.</c>
+<c>AFM</c>
+<c>KB</c>
+<c>PA</c>
+<c>HYPERANTHERA
+MORINGA VAHL</c>
+<c>HK</c>
+<c>H. MORINGA WILLD.</c>
+<c>H. MORINGA</c>
+<c>MORINGA MORINGA</c>
+<c>LINN.</c>
+<c>MILLSP.</c>
+<c>GUILANDINA MORINGA
+LINN.</c>
+<c>MORINGA CONCANENSIS NIMMO EX DALZ. ET GIBS.</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>ALBIZZIA LEBBEK BENTH.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>CP</c>
+<c>MIMOSA SIRISSA ROXB.</c>
+<c>AFM</c>
+<c>HK</c>
+<c>ACACIA SIRISSA BUCH.</c>
+<c>HAM.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>A.
+LEBBECK WILLD.</c>
+<c>A. SPECIOSA WILLD.</c>
+<c>AFM</c>
+<c>ALBIZZIA ODORATISSIMA BENTH.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>MIMOSA ODORATISSIMA LINN. F.</c>
+<c>M. ODORATISSIMA ROXB.</c>
+<c>PA</c>
+<c>ACACIA ODORATISSIMA WILLD.</c>
+<c>ALBIZZIA AMARA BOIVIN</c>
+<c>DWH</c>
+<c>KB</c>
+<c>PA</c>
+<c>MIMOSA AMARA ROXB.</c>
+<c>KB</c>
+<c>ALBIZZIA PROCERA BENTH.</c>
+<c>PA</c>
+<c>MIMOSA PROCERA ROXB.</c>
+<c>ALBIZZIA MARGINATA MERRILL</c>
+<c>PA</c>
+<c>MIMOSA
+MARGINATA LINDL.</c>
+<c>A. STIPULATA BOIV.</c>
+<c>AFM</c>
+<c>PA</c>
+<c>A.
+MARGINATA BUCH.</c>
+<c>HAM. EX WALL.</c>
+<c>PA</c>
+<c>A. JULIBRISSIN DURAZZ.</c>
+<c>MIMOSA KALKORA
+ROXB.</c>
+<c>VALLISNERIA SPIRALIS LINN.</c>
+<c>HK</c>
+<c>V</c>
+<c>BLYXA OCTANDRA RICH.</c>
+<c>HK</c>
+<c>B. SAIVALA
+SKUD.</c>
+<c>HK</c>
+<c>BLYXA OCTANDRA PLANCH. EX THW.</c>
+<c>MW</c>
+<c>PW</c>
+<c>B. OCTAN-
+DRA</c>
+<c>B. ROXBURGHII RICH.</c>
+<c>VALLISNERIA OCTANDRA ROXB.</c>
+<c>V. OCTANDRA WILLD.</c>
+<c>B. GRIFFITHII PLANCH.</c>
+<c>B. SAIVALA STEUD.</c>
+<c>HK</c>
+<c>B. SAIVALA SKUD.</c>
+<c>CERATOPHYLLUM DEMERSUM LINN.</c>
+<c>KB</c>
+<c>C. VERTICILLATUM ROXB.</c>
+<c>KB</c>
+<c>EICHHORNIA SPECIOSA KUNTH</c>
+<c>E. CRASSIPES SOLMS</c>
+<c>PISTIA STRATIOTES LINN.</c>
+<c>G. P.</c>
+<c>MW</c>
+<c>PW</c>
+<c>PANICUM COLONUM LINN.</c>
+<c>P. FRUMENTACEUM ROXB.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>ECHINOCHLOA COLONA LINK
+VAR. FRUMENTACEA BLATTER ET M</c>
+<c>CANN</c>
+<c>KB</c>
+<c>P. CRUS</c>
+<c>GALLI LINN.</c>
+<c>ECHINOCHLOA FRUMENTACEA LINK</c>
+<c>IRM</c>
+<c>P. FRUMENTACEUM ROXB.</c>
+<c>SETARIA ITALICA BEAUV.</c>
+<c>PANICUM ITALICUM LINN.</c>
+<c>MW</c>
+<c>PW</c>
+<c>ICHNOCARPUS FRUTESCENS R. BR.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>ECHITES
+FRUTESCENS ROXB.</c>
+<c>HEMIDESMUS INDICUS R. BR.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>IPOMOEA TURPETHUM R. BR.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>CONVOLVULUS TURPETHUM LINN.</c>
+<c>HK</c>
+<c>PW</c>
+<c>DALBERGIA SISSOO ROXB.</c>
+<c>KB</c>
+<c>PW</c>
+<c>AGLAIA ROXBURGHIANA MIQ.</c>
+<c>A. DIEPENHORSTII MIQ.</c>
+<c>A. ODORATISSIMA BLUME</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>PW</c>
+<c>CYNODON DACTYLON</c>
+<c>LINN.</c>
+<c>PERS.</c>
+<c>KB</c>
+<c>PW</c>
+<c>KB</c>
+<c>HIBISCUS ABELMOSCHUS LINN.</c>
+<c>PW</c>
+<c>CRINUM ZEYLANICUM LINN.</c>
+<c>AMARYLLIS ZEYLANICA LINN.</c>
+<c>PW</c>
+<c>ROUREA SANTALOIDES WIGHT ET ARN.</c>
+<c>KB</c>
+<c>GMELINA ASIATICA LINN.</c>
+<c>ARGYREIA SPECIOSA SWEET</c>
+<c>KB</c>
+<c>PW</c>
+<c>RUTA GRAVEOLENS LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>SARCOSTEMMA BREVISTIGMA WIGHT ET ARN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>KB</c>
+<c>LEEA HIRTA BANKS EX ROXB.</c>
+<c>PW</c>
+<c>PSORALEA CORYLI-
+FOLIA LINN.</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>OROXYLUM INDICUM VENT.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>V</c>
+<c>CALOSANTHES INDICA
+BLUME</c>
+<c>HK</c>
+<c>KB</c>
+<c>PA</c>
+<c>BIGNONIA INDICA LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>KB</c>
+<c>P. ARVENSE LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>BRASSICA CAMPESTRIS LINN.</c>
+<c>HK</c>
+<c>V</c>
+<c>B. CAMPESTRIS LINN. VAR.
+RAPA</c>
+<c>LINN.</c>
+<c>HARTM.</c>
+<c>KB</c>
+<c>B. CAMPESTRIS LINN. VAR. SARSON PRAIN</c>
+<c>CP</c>
+<c>B. RAPA LINN.</c>
+<c>KB</c>
+<c>SINAPIS GLAUCA ROXB.</c>
+<c>HK</c>
+<c>S. DICHOTOMA ROXB. EX FLEM.</c>
+<c>BRASSICA JUNCEA COSS.</c>
+<c>B. JUNCEA HOOK. F. ET THOMS.</c>
+<c>HK</c>
+<c>B. JUNCEA</c>
+<c>SINAPIS JUNCEA LINN.</c>
+<c>S. RAMOSA
+ROXB. EX FLEM.</c>
+<c>HK</c>
+<c>S. CUNEIFO-
+LIA ROXB.</c>
+<c>S. RUGOSA ROXB.</c>
+<c>BRASSICA NIGRA KOCH</c>
+<c>KB</c>
+<c>B. NIGRA LINN.</c>
+<c>B. NIGRA</c>
+<c>SINAPIS NIGRA LINN.</c>
+<c>KB</c>
+<c>S. ERYSI-
+MOIDES ROXB.</c>
+<c>KB</c>
+<c>ERUCA SATIVA MILLER</c>
+<c>E. SATIVA LAM.</c>
+<c>KB</c>
+<c>E. SATIVA GARS.</c>
+<c>KB</c>
+<c>PANICUM COLONUM LINN.</c>
+<c>A</c>
+<c>BRASSICA CAMPESTRIS LINN.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>B. CAMPESTRIS LINN. VAR. RAPA</c>
+<c>LINN.</c>
+<c>HARTM.</c>
+<c>KB</c>
+<c>B. RAPA LINN.</c>
+<c>KB</c>
+<c>SINAPIS GLAUCA ROXB.</c>
+<c>HK</c>
+<c>BRASSICA ALBA RABENH.</c>
+<c>B. ALBA BOISS.</c>
+<c>B. ALBA HOOK. F. ET THOMS.</c>
+<c>CP</c>
+<c>B. NIGRA KOCH</c>
+<c>B. NIGRA LINN.</c>
+<c>SINAPIS
+NIGRA LINN.</c>
+<c>BRASSICA JUNCEA COSS.</c>
+<c>B. JUNCEA</c>
+<c>HB</c>
+<c>ERUCA SATIVA MILLER</c>
+<c>E. SATIVA GARS.</c>
+<c>KB</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>HK</c>
+<c>O. ALBUM LINN.</c>
+<c>HK</c>
+<c>O. BASILICUM PILOSUM</c>
+<c>MW</c>
+<c>PW</c>
+<c>O. GRATISSIMUM LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>PW</c>
+<c>PW</c>
+<c>A.</c>
+<c>OCIMUM BASILICUM LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>O. SANCTUM LINN.</c>
+<c>KB</c>
+<c>VITEX TRIFOLIA LINN.</c>
+<c>KB</c>
+<c>V. NEGUNDO LINN.</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>CYMBOPOGON SCHOENANTHUS SPRENG.</c>
+<c>ANDROPOGON SCHOE-
+NANTHUS LINN.</c>
+<c>DWH</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>CYMBOPOGON CITRATUS STAPF</c>
+<c>PW</c>
+<c>CEIBA PENTANDRA GAERTN.</c>
+<c>GOS-
+SAMPINUS RUMPHII SCHOTT ET ENDL.</c>
+<c>MW</c>
+<c>PW</c>
+<c>BOMBAX CEIBA LINN.</c>
+<c>COMMIPHORA MUKUL ENGL.</c>
+<c>CINNAMOMUM TAMALA T. NEES ET EBERM.</c>
+<c>KB</c>
+<c>C. ZEYLANICUM BREYN</c>
+<c>KB</c>
+<c>MW</c>
+<c>PW</c>
+<c>MW</c>
+<c>PW</c>
+<c>ZIZYPHUS SATIVA GAERTN.</c>
+<c>V</c>
+<c>Z. VULGARIS LAM.</c>
+<c>V</c>
+<c>HK</c>
+<c>J. J.</c>
+<c>TRIGONELLA CORNICULATA LINN.</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>MELILOTUS OFFICINALIS LAM.</c>
+<c>TRIFOLIUM OFFICINALE
+LINN.</c>
+<c>ANISOMELES MALABARICA R. BR. EX SIMS</c>
+<c>MARSILEA QUADRIFOLIATA LINN.</c>
+<c>MIMOSA PUDICA LINN.</c>
+<c>KB</c>
+<c>PW</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>JUNIPERUS COMMUNIS LINN.</c>
+<c>KB</c>
+<c>TAMARIX GALLICA LINN.</c>
+<c>FLUGGEA LEUCOPYRUS WILLD.</c>
+<c>SPHAERANTHUS INDICUS LINN.</c>
+<c>AFM</c>
+<c>S. HIRTUS
+BURM.</c>
+<c>S. HIRTUS WILLD.</c>
+<c>S. MOLLIS ROXB.</c>
+<c>S. AFRICANUS LINN.</c>
+<c>PIPER NIGRUM LINN.</c>
+<c>THEVETIA NEREIFOLIA JUSS. EX STEUD.</c>
+<c>CERBERA THEVETIA LAM.</c>
+<c>NERIUM ODORUM</c>
+<c>SOLAND. IN</c>
+<c>AIT.</c>
+<c>CURCUMA LONGA LINN.</c>
+<c>AFM</c>
+<c>DWH</c>
+<c>IRM</c>
+<c>KB</c>
+<c>PW</c>
+<c>CP</c>
+<c>C.
+LONGA ROXB.</c>
+<c>HK</c>
+<c>C.
+LONGA</c>
+<c>MW</c>
+<c>V</c>
+<c>C. AROMATICA SALISB.</c>
+<c>DWH</c>
+<c>KB</c>
+<c>C. ZEDOARIA ROXB.</c>
+<c>C. AMADA ROXB.</c>
+<c>IRM</c>
+<c>KB</c>
+<c>C. MATICO</c>
+<c>ZINGIBER ZERUMBET ROSC. EX SM.</c>
+<c>KB</c>
+<c>HEDYCHIUM SPICATUM SM.</c>
+<c>KB</c>
+<c>TERMINALIA CHEBULA RETZ.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>PA</c>
+<c>PW</c>
+<c>V</c>
+<c>T.
+CHEBULA WILLD.</c>
+<c>T. RETICU-
+LATA ROTH</c>
+<c>PA</c>
+<c>T. ARATA BUCH.</c>
+<c>HAM. EX G. DON</c>
+<c>PA</c>
+<c>T. TOMENTELLA KURZ</c>
+<c>PA</c>
+<c>T.</c>
+<c>MYROBALANUS CITRINA KOEN.</c>
+<c>PA</c>
+<c>MELANOXYLON
+CADIKAMARUM KOEN.</c>
+<c>PA</c>
+<c>MYROBALANUS CHEBULA
+GAERTN.</c>
+<c>T. CITRINA ROXB. EX FLEM.</c>
+<c>MYROBALANUS CITRINA
+GAERTN.</c>
+<c>HB</c>
+<c>PA</c>
+<c>PISUM SATIVUM LINN.</c>
+<c>KB</c>
+<c>V</c>
+<c>MW</c>
+<c>PW</c>
+<c>PIPER AURANTIACUM WALL.</c>
+<c>HB</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>FERULA ASA</c>
+<c>FOETIDA LINN.</c>
+<c>HK</c>
+<c>MW</c>
+<c>PW</c>
+<c>SCORODOSMA FOETIDUM
+BUNGE</c>
+<c>F. FOETIDA REGEL</c>
+<c>DWH</c>
+<c>CP</c>
+<c>F. SCORODOSMA BENTLEY ET TRIM.</c>
+<c>F. ALLIACEA BOISS.</c>
+<c>DWH</c>
+<c>HK</c>
+<c>CP</c>
+<c>F. NARTHEX BOISS.</c>
+<c>KB</c>
+<c>V</c>
+<c>NARTHEX ASAFOETIDA FALC.</c>
+<c>KB</c>
+<c>V</c>
+<c>GARDENIA LUCIDA ROXB.</c>
+<c>KB</c>
+<c>MELIA AZADIRACHTA LINN.</c>
+<c>AZADIRACHTA INDICA A. JUSS.</c>
+<c>KB</c>
+<c>PAVONIA ODORATA WILLD.</c>
+<c>DWH</c>
+<c>HB</c>
+<c>HK</c>
+<c>KB</c>
+<c>MW</c>
+<c>ANDROPOGON</c>
+<c>MW</c>
+<c>PW</c>
