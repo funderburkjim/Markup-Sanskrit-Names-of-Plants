@@ -13,6 +13,7 @@ x=f.read()
 l=re.findall(r'<c>.*?</c>',x,flags=re.DOTALL)
 for i in xrange(0,len(l)):
     l[i]=re.sub(r'\r\n',' ',l[i])
+    l[i]=re.sub(r'\n',' ',l[i])
     l[i]=re.sub(r'<>','',l[i])
     if l[i].endswith("</c>"):
         w.write(l[i])
