@@ -1,5 +1,4 @@
 import re
-import unicodedata
 import sys
 import codecs
 

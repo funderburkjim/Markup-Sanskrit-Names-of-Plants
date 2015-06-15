@@ -12,7 +12,7 @@ Begun May 23, 2015
 1b. (May 23, 2015) Create snp01.txt (Using GitBash terminal program in Windows)
 - In a command terminal, change to the pywork directory
 - Run the following command-line program:
-
+ 	
 python snp01.py ../snp.txt data/snp01.txt
 
 2. (May 31, 2015) Create snp02.txt
@@ -25,4 +25,4 @@ python snp03.py data/snp02.txt data/snp03.txt
 python snp04.py data/snp03.txt data/snp04.txt
 
 5. (Jun 12, 2015) create snp04_list.txt 
-python snplist1.py data/snp04.txt data/snp04_list.txt
+python snplist1.py data/snp04.txt data/snp04_list1.txt
