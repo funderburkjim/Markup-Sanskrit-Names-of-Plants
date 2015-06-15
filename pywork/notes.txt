@@ -24,5 +24,8 @@ python snp03.py data/snp02.txt data/snp03.txt
 4. (Jun 6,  2015) create snp04.txt
 python snp04.py data/snp03.txt data/snp04.txt
 
-5. (Jun 12, 2015) create snp04_list.txt 
+5. (Jun 12, 2015) create snp04_list1.txt 
 python snplist1.py data/snp04.txt data/snp04_list1.txt
+
+6. (Jun 15, 2015) create snp04_list2.txt
+python snplist2.py data/snp04_list1.txt data/snp04_list2.txt 
