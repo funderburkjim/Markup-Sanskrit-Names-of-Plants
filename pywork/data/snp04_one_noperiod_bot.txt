@@ -1,0 +1,35 @@
+<c>CORREA</c>
+<c>LINK</c>
+<c>DIOSCOREA</c>
+<c>ALOE</c>  <c>ALOE</c>7<c>XYLUM
+<c>A</c>
+<c>I</c>
+<c>MACBRIDE</c>
+<c>KUNTZE</c>
+<c>URROA</c> ?
+<c>MIERS</c>
+<c>DELILE</c>
+<c>SPRAGUE</c>
+<c>DUBARD</c>
+<c>IGHT</c>  typo
+<c>HIERACIUM</c>
+<c>BERGIUS</c>
+<c>NASH</c>
+<c>OCIMUM</c>
+<c>TACHYA</c> typo
+<c>GAWL</c> typo?
+<c>GREENE</c>
+<c>AGRESTIS</c>
+<c>PIERRE</c>
+<c>WATSON</c>
+<c>CANN</c> typo
+<c>ORIENTALIS</c>
+<c>SKEELS</c>
+<c>WEST</c>
+<c>STAPF</c>
+<c>ANDROPOGON</c>
+<c>CAPSICUM</c>
+<c>APUS</c>
+<c>SWINGLE</c>
+<c>ALSTON</c>
+<c>NEES</c>
