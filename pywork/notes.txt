@@ -29,3 +29,6 @@ python snplist1.py data/snp04.txt data/snp04_list1.txt
 
 6. (Jun 15, 2015) create snp04_list2.txt
 python snplist2.py data/snp04_list1.txt data/snp04_list2.txt 
+
+7. (Jun 17,2015)  create snp05.txt and use snp04_one_noperiod_nobot.txt 
+python snp05.py data/snp04.txt data/snp04_one_noperiod_nobot.txt data/snp05.txt
