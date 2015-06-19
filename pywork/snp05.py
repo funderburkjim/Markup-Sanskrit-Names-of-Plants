@@ -26,6 +26,7 @@ for l in f:
         #if x in caps
         if x in nobot:
             #if x is in dict(nobot) remove c-tags
-            l=re.sub(r'<c>(.*?)</c>',r'\1',l)
+            m=re.search(r'<c>(.*?)</c>',x)
+            l=re.sub(x,m.group(1),l)
     w.write(l)
             
