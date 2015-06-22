@@ -1,0 +1,198 @@
+94  <P>(1) a) Chopra: [<c>COMMIPHORA ROXBURGHII</c> (<c>ARN.</c>) <c>ENGL.</c>] = [<c>C.
+94  <P>(1) a) Chopra: [<c>COMMIPHORA ROXBURGHII ARN. ENGL.</c>] = [<c>C.
+
+95  <>AGALLOCHA</c> (<c>WIGHT ET ARN.</c>) <c>ENGL.</c>] = <c>BALSAMODENDRUM
+95  <>AGALLOCHA WIGHT ET ARN. ENGL.</c>] = <c>BALSAMODENDRUM
+
+187  <P>(3) a) [<c>TRACHYSPERMUM AMMI</c> (<c>LINN.</c>) <c>SPRAGUE</c>] (Chopra) = <c>CARUM
+187  <P>(3) a) [<c>TRACHYSPERMUM AMMI LINN. SPRAGUE</c>] (Chopra) = <c>CARUM
+
+190  <P>b) <c>TRACHYSPERMUM COPTICUM</c> (<c>LINN.</c>) <c>LINK</c> [Intern. Code] =
+190  <P>b) <c>TRACHYSPERMUM COPTICUM LINN. LINK</c> [Intern. Code] =
+
+280  <P><c>CAJANUS CAJAN</c> (<c>LINN.</c>) <c>MILLSP.</c> [Intern. Code] (Chopra; IRM 2, p.
+280  <P><c>CAJANUS CAJAN LINN. MILLSP.</c> [Intern. Code] (Chopra; IRM 2, p.
+
+343  <P>(3) <c>N. ODORATA</c> [<c>SOLAND. IN</c>] <c>AIT.</c> (Ainslie 2, p. 381);
+343  <P>(3) <c>N. ODORATA SOLAND. IN AIT.</c> (Ainslie 2, p. 381);
+
+393  <P>(1) [<c>VETIVERIA ZIZANIOIDES</c> (<c>LINN.</c>) <c>NASH</c>] (Bpn, p. 239; Chopra) = [Page-530+ 36]
+393  <P>(1) [<c>VETIVERIA ZIZANIOIDES LINN. NASH</c>] (Bpn, p. 239; Chopra) = [Page-530+ 36]
+
+607  <P>(3) [<c>ADINA CORDIFOLIA</c> (<c>ROXB.</c>) <c>BENTH. ET HOOK. F.</c>] (Chopra: {%dha1ra1-
+607  <P>(3) [<c>ADINA CORDIFOLIA ROXB. BENTH. ET HOOK. F.</c>] (Chopra: {%dha1ra1-
+
+635  <>[= <c>F. LIMONIA</c> (<c>LINN.</c>) <c>SWINGLE</c>] (Chopra) = <c>SCHINUS LIMONIA LINN.</c>
+635  <>[= <c>F. LIMONIA LINN. SWINGLE</c>] (Chopra) = <c>SCHINUS LIMONIA LINN.</c>
+
+655  <P>(1) <c>PONGAMIA PINNATA</c> (<c>LINN.</c>) <c>PIERRE</c> [Intern. Code] [= <c>P. PINNATA</c>
+655  <P>(1) <c>PONGAMIA PINNATA LINN. PIERRE</c> [Intern. Code] [= <c>P. PINNATA</c>
+
+682  <P>a) <c>ECLIPTA ALBA</c> (<c>LINN.</c>) <c>HASSK.</c> [Intern. Code] = <c>E. ERECTA
+682  <P>a) <c>ECLIPTA ALBA LINN. HASSK.</c> [Intern. Code] = <c>E. ERECTA
+
+700  <>malaka%}) [= <c>F. JANGOMAS</c> (<c>LOUR.</c>) <c>RAEUSCH.</c>] [Chopra] = <c>F. JANGOMAS
+700  <>malaka%}) [= <c>F. JANGOMAS LOUR. RAEUSCH.</c>] [Chopra] = <c>F. JANGOMAS
+
+714  <>only: <c>CADABA JUNCEA HARV.</c> = <c>C. APHYLLA</c> (<c>THUNB.</c>) <c>WILLD.</c>
+714  <>only: <c>CADABA JUNCEA HARV.</c> = <c>C. APHYLLA THUNB. WILLD.</c>
+
+735  <P>(3) <c>AEGLE MARMELOS</c> (<c>LINN.</c>) <c>CORREA</c> [Intern. Code] (Vs4s);
+735  <P>(3) <c>AEGLE MARMELOS LINN. CORREA</c> [Intern. Code] (Vs4s);
+
+745  <P>(4) <c>AEGLE MARMELOS</c> (<c>LINN.</c>) <c>CORREA</c> [Intern. Code] (MW; PW; Vs4s);
+745  <P>(4) <c>AEGLE MARMELOS LINN. CORREA</c> [Intern. Code] (MW; PW; Vs4s);
+
+752  <>HISPIDA COGN.</c> [= <c>B. HISPIDA</c> (<c>THUNB.</c>) <c>COGN.</c>] (KB 2, p. 1127-1128);
+752  <>HISPIDA COGN.</c> [= <c>B. HISPIDA THUNB. COGN.</c>] (KB 2, p. 1127-1128);
+
+762  <P>(4) <c>BLUMEA BALSAMIFERA</c> (<c>LINN.</c>) <c>DC.</c> [Intern. Code] (Avk; Bpn,
+762  <P>(4) <c>BLUMEA BALSAMIFERA LINN. DC.</c> [Intern. Code] (Avk; Bpn,
+
+769  <P>(10) the tuber of <c>CURCUMA ZEDOARIA</c> (<c>BERGIUS</c>) <c>ROSC.</c> (Vs4s) = <c>C.
+769  <P>(10) the tuber of <c>CURCUMA ZEDOARIA BERGIUS ROSC.</c> (Vs4s) = <c>C.
+
+972  <P>(11) = {%du1rva1:%} <c>CYNODON DACTYLON</c> (<c>LINN.</c>) <c>PERS.</c> [Intern. Code]
+972  <P>(11) = {%du1rva1:%} <c>CYNODON DACTYLON LINN. PERS.</c> [Intern. Code]
+
+1126  <P>(1) [<c>TINOSPORA CORDIFOLIA</c> (<c>WILLD.</c>) <c>MIERS</c>] (Bpn, p. 269-270;
+1126  <P>(1) [<c>TINOSPORA CORDIFOLIA WILLD. MIERS</c>] (Bpn, p. 269-270;
+
+1174  <P>(2) <c>CYNODON DACTYLON</c> (<c>LINN.</c>) <c>PERS.</c> [Intern. Code] (DWH 3, p.
+1174  <P>(2) <c>CYNODON DACTYLON LINN. PERS.</c> [Intern. Code] (DWH 3, p.
+
+1296  <P>(1) [<c>SYZYGIUM CUMINI</c> (<c>LINN.</c>) <c>SKEELS</c>] (Chopra) = <c>S. CUMINI SKEELS</c>
+1296  <P>(1) [<c>SYZYGIUM CUMINI LINN. SKEELS</c>] (Chopra) = <c>S. CUMINI SKEELS</c>
+
+1313  <P>(3) <c>JAMBOSA JAMBOS</c> (<c>LINN.</c>) <c>MILLSP.</c> [Intern. Code] = <c>J. VULGARIS
+1313  <P>(3) <c>JAMBOSA JAMBOS LINN. MILLSP.</c> [Intern. Code] = <c>J. VULGARIS
+
+1314  <>DC.</c> (KB 2, p. 1049-1051) [= <c>SYZYGIUM JAMBOS</c> (<c>LINN.</c>) <c>ALST.</c>] (Cho- [Page-556+ 37]
+1314  <>DC.</c> (KB 2, p. 1049-1051) [= <c>SYZYGIUM JAMBOS LINN. ALST.</c>] (Cho- [Page-556+ 37]
+
+1334  <>1917); [Flora Iranica: <c>PHYLA NODIFLORA</c> (<c>LINN.</c>) <c>GREENE</c> = <c>VERBENA
+1334  <>1917); [Flora Iranica: <c>PHYLA NODIFLORA LINN. GREENE</c> = <c>VERBENA
+
+1335  <>NODIFLORA LINN.</c> = <c>LIPPIA NODIFLORA</c> (<c>LINN.</c>) <c>RICH. IN MICHX.</c>];
+1335  <>NODIFLORA LINN.</c> = <c>LIPPIA NODIFLORA LINN. RICH. IN MICHX.</c>];
+
+1359  <>ji1raka%}) [= <c>CENTRATHERUM ANTHELMINTICUM</c> (<c>WILLD.</c>) <c>KUNTZE</c>] (Na 1,
+1359  <>ji1raka%}) [= <c>CENTRATHERUM ANTHELMINTICUM WILLD. KUNTZE</c>] (Na 1,
+
+1366  <P>[<c>SORGHUM VULGARE</c> (<c>LINN.</c>) <c>PERS. VAR. SACCHARATUM BOERL.</c>] =
+1366  <P>[<c>SORGHUM VULGARE LINN. PERS. VAR. SACCHARATUM BOERL.</c>] =
+
+1526  <P>(2) <c>CYNODON DACTYLON</c> (<c>LINN.</c>) <c>PERS.</c> [Intern. Code] (Viennot) =
+1526  <P>(2) <c>CYNODON DACTYLON LINN. PERS.</c> [Intern. Code] (Viennot) =
+
+1551  <P>(7) [<c>COSCINIUM FENESTRATUM</c> (<c>GAERTN.</c>) <c>COLEBR.</c>] (Chopra; IRM 2,
+1551  <P>(7) [<c>COSCINIUM FENESTRATUM GAERTN. COLEBR.</c>] (Chopra; IRM 2,
+
+1569  <P>(3) <c>TRACHYSPERMUM COPTICUM</c> (<c>LINN.</c>) <c>LINK</c> (Intern. Code] = <c>CARUM
+1569  <P>(3) <c>TRACHYSPERMUM COPTICUM LINN. LINK</c> (Intern. Code] = <c>CARUM
+
+1589  <P>(1) [<c>SORGHUM VULGARE</c> (<c>LINN.</c>) <c>PERS. VAR. SACCHARATUM BOERL.</c>] =
+1589  <P>(1) [<c>SORGHUM VULGARE LINN. PERS. VAR. SACCHARATUM BOERL.</c>] =
+
+1622  <>ALBA</c> (<c>NEES</c>) <c>C. B. CLARKE</c>; IRM 3, p. 16-19: the names {%dhattu1ra%} and
+1622  <>ALBA NEES C. B. CLARKE</c>; IRM 3, p. 16-19: the names {%dhattu1ra%} and
+
+1647  <P>(3) [<c>ERVATAMIA DIVARICATA</c> (<c>LINN.</c>) <c>ALSTON</c>] (IRM 3, p. 192);
+1647  <P>(3) [<c>ERVATAMIA DIVARICATA LINN. ALSTON</c>] (IRM 3, p. 192);
+
+1657  <P>(7) <c>THESPESIA POPULNEA</c> (<c>LINN.</c>) <c>SOLAND. EX CORREA</c> [Intern. Code]
+1657  <P>(7) <c>THESPESIA POPULNEA LINN. SOLAND. EX CORREA</c> [Intern. Code]
+
+1733  <P>(2) [<c>C. LIMON</c> (<c>LINN.</c>) <c>BURM. F.</c>] (Chopra: {%maha1nimbu%}); see Purseglove
+1733  <P>(2) [<c>C. LIMON LINN. BURM. F.</c>] (Chopra: {%maha1nimbu%}); see Purseglove
+
+1845  <P>(2) [<c>ANTIARIS TOXICARIA</c> (<c>PERS.</c>) <c>LESCH.</c>] (Bpn, p. 553) = <c>A. TOXI-
+1845  <P>(2) [<c>ANTIARIS TOXICARIA PERS. LESCH.</c>] (Bpn, p. 553) = <c>A. TOXI-
+
+1903  <P>(1) <c>BUTEA MONOSPERMA</c> (<c>LAM.</c>) <c>TAUB.</c> [Intern. Code] = [<c>B. MONO-
+1903  <P>(1) <c>BUTEA MONOSPERMA LAM. TAUB.</c> [Intern. Code] = [<c>B. MONO-
+
+1904  <>SPERMA</c> (<c>LAM.</c>) <c>KUNTZE</c>] (Chopra; IRM 1, p. 251-252) = <c>B. MONO-
+1904  <>SPERMA LAM. KUNTZE</c>] (Chopra; IRM 1, p. 251-252) = <c>B. MONO-
+
+1920  <P>(6) <c>THESPESIA POPULNEA</c> (<c>LINN.</c>) <c>SOLAND. EX CORREA</c> [Intern. Code]
+1920  <P>(6) <c>THESPESIA POPULNEA LINN. SOLAND. EX CORREA</c> [Intern. Code]
+
+1957  <P>(1) <c>THESPESIA POPULNEA</c> (<c>LINN.</c>) <c>SOLAND. EX CORREA</c> [Intern. Code]
+1957  <P>(1) <c>THESPESIA POPULNEA LINN. SOLAND. EX CORREA</c> [Intern. Code]
+
+1990  <><c>POSOQUERIA ULIGINOSA</c> (<c>WILLD.</c>) <c>ROXB.</c> (KB 2, p. 1272-1273);
+1990  <><c>POSOQUERIA ULIGINOSA WILLD. ROXB.</c> (KB 2, p. 1272-1273);
+
+2066  <P>(6) <c>B. AEGYPTIACA</c> (<c>LINN.</c>) <c>DELILE</c> [Intern. Code] (HK: = {%hin3gu-
+2066  <P>(6) <c>B. AEGYPTIACA LINN. DELILE</c> [Intern. Code] (HK: = {%hin3gu-
+
+2073  <P>(11) <c>CALOTROPIS GIGANTEA</c> [<c>DRYAND. IN</c>] <c>AIT.</c> (Vs4s).
+2073  <P>(11) <c>CALOTROPIS GIGANTEA DRYAND. IN AIT.</c> (Vs4s).
+
+2149  <P>(9) <c>THESPESIA POPULNEA</c> (<c>LINN.</c>) <c>SOLAND. EX CORREA</c> [Intern. Code]
+2149  <P>(9) <c>THESPESIA POPULNEA LINN. SOLAND. EX CORREA</c> [Intern. Code]
+
+2208  <P>(5) <c>C. SIPHONANTHUS</c> [<c>R. BR. IN</c>] <c>AIT.</c> (MW; PW);
+2208  <P>(5) <c>C. SIPHONANTHUS R. BR. IN AIT.</c> (MW; PW);
+
+2261  <>1, nr. 534; Sanyal; V 2, p. 45) [= <c>C. CORDIFOLIA</c> (<c>LINN.</c>) <c>COGN.</c>] (Cho-
+2261  <>1, nr. 534; Sanyal; V 2, p. 45) [= <c>C. CORDIFOLIA LINN. COGN.</c>] (Cho-
+
+2269  <P><c>AEGLE MARMELOS</c> (<c>LINN.</c>) <c>CORREA</c> [Intern. Code].
+2269  <P><c>AEGLE MARMELOS LINN. CORREA</c> [Intern. Code].
+
+2327  <P>(1) [<c>CYMBOPOGON CITRATUS</c> (<c>DC.</c>) <c>STAPF</c>] (Chopra) = <c>C. CITRATUS
+2327  <P>(1) [<c>CYMBOPOGON CITRATUS DC. STAPF</c>] (Chopra) = <c>C. CITRATUS
+
+2342  <P>(4) <c>CYMBOPOGON MARTINII</c> (<c>ROXB.</c>) <c>WATSON</c> = <c>C. MARTINI STAPF</c>
+2342  <P>(4) <c>CYMBOPOGON MARTINII ROXB. WATSON</c> = <c>C. MARTINI STAPF</c>
+
+2358  <P>(2) <c>AEGLE MARMELOS</c> (<c>LINN.</c>) <c>CORREA</c> [Intern. Code] (KB 1, p. 499-
+2358  <P>(2) <c>AEGLE MARMELOS LINN. CORREA</c> [Intern. Code] (KB 1, p. 499-
+
+2390  <>TORUM</c> (<c>WILLD.</c>) <c>WILLD. EX ROXB.</c> (Dutt; HK; Vs4s);
+2390  <>TORUM WILLD. WILLD. EX ROXB.</c> (Dutt; HK; Vs4s);
+
+2456  <P>(2) [<c>MADHUCA LONGIFOLIA</c> (<c>LINN.</c>) <c>MACBRIDE</c>] (Chopra) = <c>M. LONGI-
+2456  <P>(2) [<c>MADHUCA LONGIFOLIA LINN. MACBRIDE</c>] (Chopra) = <c>M. LONGI-
+
+2630  <P>(1) <c>TRACHYSPERMUM COPTICUM</c> (<c>LINN.</c>) <c>LINK</c> [Intern. Code] = <c>CA-
+2630  <P>(1) <c>TRACHYSPERMUM COPTICUM LINN. LINK</c> [Intern. Code] = <c>CA-
+
+2650  <P>(1) [<c>SORGHUM VULGARE</c> (<c>LINN.</c>) <c>PERS. VAR. SACCHARATUM BOERL.</c>]
+2650  <P>(1) [<c>SORGHUM VULGARE LINN. PERS. VAR. SACCHARATUM BOERL.</c>]
+
+2695  <P>(2) <c>MANILKARA KAUKI</c> (<c>LINN.</c>) <c>DUBARD</c> [Intern. Code] = <c>MIMUSOPS
+2695  <P>(2) <c>MANILKARA KAUKI LINN. DUBARD</c> [Intern. Code] = <c>MIMUSOPS
+
+2723  <P>(2) [<c>BRASSICA INTEGRIFOLIA</c> (<c>WEST</c>) <c>O. E. SCHULZ</c>] (Chopra; KB 1,
+2723  <P>(2) [<c>BRASSICA INTEGRIFOLIA WEST O. E. SCHULZ</c>] (Chopra; KB 1,
+
+2730  <P>(4) [<c>BRASSICA CAMPESTRIS LINN. VAR. RAPA</c> (<c>LINN.</c>) <c>HARTM.</c>] (KB 1,
+2730  <P>(4) [<c>BRASSICA CAMPESTRIS LINN. VAR. RAPA LINN. HARTM.</c>] (KB 1,
+
+2767  <>s<c>TACHYA</c> (<c>WALL.</c>) <c>R. N. PARKER</c>] (Chopra: {%rohitaka;%} IRM 1, p. 86-87);
+2767  <>s<c>TACHYA WALL. R. N. PARKER</c>] (Chopra: {%rohitaka;%} IRM 1, p. 86-87);
+
+2786  <P>(1) <c>SYZYGIUM AROMATICUM</c> (<c>LINN.</c>) <c>MERRILL ET PERRY</c> (Bpn, p. 219;
+2786  <P>(1) <c>SYZYGIUM AROMATICUM LINN. MERRILL ET PERRY</c> (Bpn, p. 219;
+
+2795  <P>(2) <c>EUGENIA CARYOPHYLLUS</c> (<c>SPRENG.</c>) <c>BULLOCK ET S. G. HARRISON</c>
+2795  <P>(2) <c>EUGENIA CARYOPHYLLUS SPRENG. BULLOCK ET S. G. HARRISON</c>
+
+3003  <P>(2) <c>MORINGA MORINGA</c> (<c>LINN.</c>) <c>MILLSP.</c> = <c>GUILANDINA MORINGA
+3003  <P>(2) <c>MORINGA MORINGA LINN. MILLSP.</c> = <c>GUILANDINA MORINGA
+
+3084  <P>(12) = {%du1rva1:%} <c>CYNODON DACTYLON</c> (<c>LINN.</c>) <c>PERS.</c> [Intern. Code]
+3084  <P>(12) = {%du1rva1:%} <c>CYNODON DACTYLON LINN. PERS.</c> [Intern. Code]
+
+3133  <>RAPA</c> (<c>LINN.</c>) <c>HARTM.</c>] (Chopra: {%ka1lasars2apa;%} KB 1, p. 165-166:
+3133  <>RAPA LINN. HARTM.</c>] (Chopra: {%ka1lasars2apa;%} KB 1, p. 165-166:
+
+3158  <>HK) [= <c>B. CAMPESTRIS LINN. VAR. RAPA</c> (<c>LINN.</c>) <c>HARTM.</c>] (KB 1, p.
+3158  <>HK) [= <c>B. CAMPESTRIS LINN. VAR. RAPA LINN. HARTM.</c>] (KB 1, p.
+
+3252  <P>(9) <c>NERIUM ODORUM</c> [<c>SOLAND. IN</c>] <c>AIT.</c> (Nadk. 1, nr. 2466).
+3252  <P>(9) <c>NERIUM ODORUM SOLAND. IN AIT.</c> (Nadk. 1, nr. 2466).
+
