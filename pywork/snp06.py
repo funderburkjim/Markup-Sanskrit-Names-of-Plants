@@ -13,13 +13,13 @@ lineno=0
 for l in f:
     lineno+=1
     l1=l
-    l=re.sub(r'</c>( *?)\(<c>(.*?)</c>\)( *?)<c>',lambda s:s.group(1)+s.group(2)+s.group(3),l)
+    l=re.sub(r'</c>( *?\()<c>(.*?)</c>(\) *?)<c>',lambda s:s.group(1)+s.group(2)+s.group(3),l)
     #remove the tags of expression containing consecutive <c> and </c> tags seperated by '(' or ')' with 0 or more spaces
     #like(line 95)-> <>AGALLOCHA</c> (<c>WIGHT ET ARN.</c>) <c>ENGL.</c>] = <c>BALSAMODENDRUM
     #should look like->  <>AGALLOCHA WIGHT ET ARN. ENGL.</c>] = <c>BALSAMODENDRUM
 
 
-    l=re.sub(r'</c>( *?)\[<c>(.*?)</c>\]( *?)<c>',lambda s:s.group(1)+s.group(2)+s.group(3),l)
+    l=re.sub(r'</c>( *?\[)<c>(.*?)</c>(\] *?)<c>',lambda s:s.group(1)+s.group(2)+s.group(3),l)
         #remove the tags of expression containing consecutive <c> and </c> tags seperated by '[' or ']' with 0 or more spaces
         #like)line 343)->  <P>(3) <c>N. ODORATA</c> [<c>SOLAND. IN</c>] <c>AIT.</c> (Ainslie 2, p. 381);
         #should look like ->  <P>(3) <c>N. ODORATA SOLAND. IN AIT.</c> (Ainslie 2, p. 381);
