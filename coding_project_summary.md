@@ -1,6 +1,9 @@
-	Shubham Vaishnav and Beenoo Yadav worked on project Markup-Sanskrit-Names-of-Plants. 
-As intern at Indian institute of technology(IIT) Kharagpur , for professor Pawan Goyal.
-The work is done between (18th June to 6 July ) in the year 2015.
+	                       #Markup of Sanskrit Names of Plants
+	
+	Shubham Vaishnav and Beenoo Yadav , student of Indian School of Mines, Dhanbad ,
+worked on project "Markup of Sanskrit Names of Plants". 
+As summer intern at Indian institute of technology(IIT) Kharagpur , under supervision professor Pawan Goyal.
+The work is done between (18th may to 6 July ) in the year 2015.
 
 	The aim of project is to markup the "sanskrit names of plants and thier botanical 
 equivalent" in a data file snp.txt in lines 81-3313. The same is achieved by processing 
@@ -101,3 +104,8 @@ snp05.txt,
 <P>(3) a) [<c>TRACHYSPERMUM AMMI</c> (<c>LINN.</c>) <c>SPRAGUE</c>] (Chopra) = <c>CARUM
 snp06.txt,
 <P>(3) a) [<c>TRACHYSPERMUM AMMI (LINN.) SPRAGUE</c>] (Chopra) = <c>CARUM
+
+after this two program snplist1.py and snplist2.py was run on the final data snp06.txt to 
+generate  the two files snp06_list1.txt and snp06_list2.txt
+
+NOTE: how to run python programs are given into a file notes.txt under folder pywork in the repository "Markup-Sanskrit-Names-of-Plants" 
